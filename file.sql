@@ -22,4 +22,4 @@ CREATE TABLE mitarbeiter (
 
 CREATE TABLE spielfelder (
   Spielfeldnummer  TINYINT PRIMARY KEY auto_imcrement,
-)
+);

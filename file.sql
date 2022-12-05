@@ -1,6 +1,6 @@
 USE beehive;
 CREATE TABLE IF NOT EXISTS mitglieder (
-  Mietgliedsnr TINYINT PRIMARY KEY auto_increment,
+  Mietgliedsnummer TINYINT PRIMARY KEY auto_increment,
   Vorname char(20) NOT NULL,
   Nachname char(20) NOT NULL,
   Strasse char(20) NOT NULL,
@@ -17,11 +17,13 @@ CREATE TABLE IF NOT EXISTS mitarbeiter (
   Anfangsdatum DATE NOT NULL,
   Stundenlohn int NOT NULL,
   Steuerklasse int NOT NULL,
-  Rolle char(12) NOT NULL
+  Rolle char(12) NOT NULL,
+  Mietgliedsnummer TINYINT,
+  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder(Mietgliedsnummer)
 );
 CREATE TABLE IF NOT EXISTS sportarten (
-  SportartNummer TINYINT PRIMARY KEY auto_increment,
-  Name char(20),
+  Sportartnummer TINYINT PRIMARY KEY auto_increment,
+  SportartName char(20),
   Equipment char(50)
 );
 CREATE TABLE IF NOT EXISTS spielfelder (
@@ -38,4 +40,28 @@ CREATE TABLE IF NOT EXISTS teams (
   Bedingungen char(20),
   Altersklasse int,
   Groesse int
-)
+);
+CREATE TABLE IF NOT EXISTS mitglieder_spielen_in (
+  Teamnummer TINYINT,
+  Mietgliedsnummer TINYINT,
+  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+  FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
+);
+CREATE TABLE IF NOT EXISTS teams_spielen (
+  Sportartnummer TINYINT,
+  Teamnummer TINYINT,
+  FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
+  FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
+);
+CREATE TABLE IF NOT EXISTS sportarten_benoetigen (
+  Sportartnummer TINYINT,
+  Spielfeldnummer TINYINT,
+  FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
+  FOREIGN KEY (Spielfeldnummer) REFERENCES spielfelder (Spielfeldnummer)
+);
+CREATE TABLE IF NOT EXISTS mitglieder_können_sportarten (
+  Mietgliedsnummer TINYINT,
+  Sportartnummer TINYINT,
+  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+  FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
+);

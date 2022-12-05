@@ -1,5 +1,5 @@
 -- Die grundlegende MySQL Datenbank erstellen
-CREATE DATABASE beehive;
+CREATE DATABASE IF NOT EXISTS beehive;
 -- Sicherstellen, dass die Datenbank ausgewählt ist
 USE beehive;
 -- Die Mitgliedertabelle erstmal ohne Foreign Keys

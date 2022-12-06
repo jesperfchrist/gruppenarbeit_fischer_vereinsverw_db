@@ -1,16 +1,18 @@
 -- Die grundlegende MySQL Datenbank erstellen
 CREATE DATABASE IF NOT EXISTS beehive;
--- Sicherstellen, dass die Datenbank ausgewählt ist
+-- Sicherstellen, dass die Datenbank ausgewaehlt ist
 USE beehive;
+-- user erstellen
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Pswd123?';
 -- Die Mitgliedertabelle erstmal ohne Foreign Keys
 CREATE TABLE IF NOT EXISTS mitglieder (
   Mietgliedsnummer TINYINT PRIMARY KEY auto_increment,
   Vorname char(20) NOT NULL,
   Nachname char(20) NOT NULL,
   Strasse char(20) NOT NULL,
-  Hausnummer int NOT NULL,
-  PLZ int NOT NULL,
-  Geschlecht char(4) NOT NULL,
+  Hausnummer char(4) NOT NULL,
+  PLZ char(5) NOT NULL,
+  Geschlecht char(1) NOT NULL,
   Gewicht int,
   Groesse int,
   Geburtsdatum DATE NOT NULL,
@@ -38,7 +40,7 @@ CREATE TABLE IF NOT EXISTS spielfelder (
   Untergrund char(12),
   Markierungen char(12),
   Netz char(12),
-  Länge int,
+  Laenge int,
   Breite int,
   Ort char(30)
 );
@@ -63,15 +65,15 @@ CREATE TABLE IF NOT EXISTS teams_spielen (
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
 );
--- Beziehung: sportarten benötigen spielfelder
+-- Beziehung: sportarten benuetigen spielfelder
 CREATE TABLE IF NOT EXISTS sportarten_benoetigen (
   Sportartnummer TINYINT,
   Spielfeldnummer TINYINT,
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Spielfeldnummer) REFERENCES spielfelder (Spielfeldnummer)
 );
--- Beziehung:  mitglieder können sportarten
-CREATE TABLE IF NOT EXISTS mitglieder_können_sportarten (
+-- Beziehung:  mitglieder kuennen sportarten
+CREATE TABLE IF NOT EXISTS mitglieder_kuennen_sportarten (
   Mietgliedsnummer TINYINT,
   Sportartnummer TINYINT,
   FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),

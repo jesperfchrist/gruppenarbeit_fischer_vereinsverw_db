@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS mitglieder (
   Gewicht int,
   Groesse int,
   Geburtsdatum DATE NOT NULL,
-  IBAN int,
+  IBAN CHAR(22) NOT NULL,
   Beitrittsdatum DATE NOT NULL
 );
 CREATE TABLE IF NOT EXISTS mitarbeiter (

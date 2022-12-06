@@ -2,8 +2,6 @@
 CREATE DATABASE IF NOT EXISTS beehive;
 -- Sicherstellen, dass die Datenbank ausgewaehlt ist
 USE beehive;
--- user erstellen
-ALTER USER 'root' @'localhost' IDENTIFIED WITH mysql_native_password BY 'Pswd123?';
 -- Die Mitgliedertabelle erstmal ohne Foreign Keys
 CREATE TABLE IF NOT EXISTS mitglieder (
   Mietgliedsnummer TINYINT PRIMARY KEY auto_increment,
@@ -80,7 +78,7 @@ CREATE TABLE IF NOT EXISTS mitglieder_kuennen_sportarten (
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
 );
 -- insert values
-INSERT INTO IF NOT EXISTS sportarten (SportartName, Equipment)
+INSERT INTO sportarten (SportartName, Equipment)
 VALUES ('Handball', 'Handballfeld');
 INSERT INTO sportarten (SportartName, Equipment)
 VALUES ('Tennis', 'Tennisfeld');

@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS spielfelder (
   Untergrund char(12),
   Markierungen char(12),
   Netz char(12),
-  Länge int,
+  Laenge int,
   Breite int,
   Ort char(30)
 );
@@ -59,7 +59,7 @@ CREATE TABLE IF NOT EXISTS sportarten_benoetigen (
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Spielfeldnummer) REFERENCES spielfelder (Spielfeldnummer)
 );
-CREATE TABLE IF NOT EXISTS mitglieder_können_sportarten (
+CREATE TABLE IF NOT EXISTS mitglieder_koennen_sportarten (
   Mitgliedsnummer TINYINT,
   Sportartnummer TINYINT,
   FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),

@@ -4,7 +4,7 @@ CREATE DATABASE IF NOT EXISTS beehive;
 USE beehive;
 -- Die Mitgliedertabelle erstmal ohne Foreign Keys
 CREATE TABLE IF NOT EXISTS mitglieder (
-  Mietgliedsnummer TINYINT PRIMARY KEY auto_increment,
+  Mitgliedsnummer TINYINT PRIMARY KEY auto_increment,
   Vorname char(20) NOT NULL,
   Nachname char(20) NOT NULL,
   Strasse char(20) NOT NULL,
@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS mitglieder (
   Gewicht int,
   Groesse int,
   Geburtsdatum DATE NOT NULL,
-  IBAN int,
+  IBAN char(22) NOT NULL,
   Beitrittsdatum DATE NOT NULL
 );
 -- MITARBEITER
@@ -23,8 +23,8 @@ CREATE TABLE IF NOT EXISTS mitarbeiter (
   Stundenlohn int NOT NULL,
   Steuerklasse int NOT NULL,
   Rolle char(12) NOT NULL,
-  Mietgliedsnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder(Mietgliedsnummer)
+  Mitgliedsnummer TINYINT,
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder(Mitgliedsnummer)
 );
 -- SPORTARTEN
 CREATE TABLE IF NOT EXISTS sportarten (
@@ -52,8 +52,8 @@ CREATE TABLE IF NOT EXISTS teams (
 -- Beziehung: mitglieder spielen in teams
 CREATE TABLE IF NOT EXISTS mitglieder_spielen_in (
   Teamnummer TINYINT,
-  Mietgliedsnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+  Mitgliedsnummer TINYINT,
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
 );
 -- Beziehung: teams spielen sportarten
@@ -70,11 +70,10 @@ CREATE TABLE IF NOT EXISTS sportarten_benoetigen (
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Spielfeldnummer) REFERENCES spielfelder (Spielfeldnummer)
 );
--- Beziehung:  mitglieder kuennen sportarten
-CREATE TABLE IF NOT EXISTS mitglieder_kuennen_sportarten (
-  Mietgliedsnummer TINYINT,
-  Sportartnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+CREATE TABLE IF NOT EXISTS mitglieder_koennen_sportarten (
+  Mitgliedsnummer TINYINT,
+
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
 );
 -- insert values

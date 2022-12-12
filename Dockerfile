@@ -1,4 +1,4 @@
-#Create MySQL Image for JSP Tutorial Application
+#Create MySQL Image for beehive db
 FROM mysql
 LABEL AUTHOR mail@jesper.christ.de
 

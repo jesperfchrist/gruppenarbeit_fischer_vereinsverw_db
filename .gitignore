@@ -1,2 +1,7 @@
 .vscode/
 beehive.session.sql
+node_modules/
+.env
+pnpm-lock.yaml
+.http
+app.js

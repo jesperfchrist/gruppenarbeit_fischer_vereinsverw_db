@@ -1,0 +1,12024 @@
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schreiber',
+    'Budapester Strasse 11',
+    'Rastorf',
+    '96.3',
+    '26901',
+    '1967-9-28',
+    'Uwe',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Finkel',
+    'Schillerstrasse 22',
+    'Landsberg',
+    '86.2',
+    '86882',
+    '1968-5-3',
+    'Jennifer',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bach',
+    'Leopoldstraße 38',
+    'Bochum',
+    '70.9',
+    '44791',
+    '1957-11-12',
+    'Stephanie',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schmitz',
+    'Fasanenstrasse 23',
+    'Hamburg Neustadt',
+    '66.1',
+    '20355',
+    '1987-12-23',
+    'Lukas',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mehler',
+    'An Der Urania 43',
+    'Kellinghusen',
+    '59.6',
+    '25542',
+    '1988-5-29',
+    'Anja',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eiffel',
+    'Kieler Strasse 33',
+    'Trostberg',
+    '109.9',
+    '83304',
+    '1966-10-14',
+    'Maximilian',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Köhler',
+    'Bissingzeile 75',
+    'Bremervörde',
+    '93.1',
+    '27432',
+    '1965-3-9',
+    'Klaus',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schuhmacher',
+    'Straße der Pariser Kommune 83',
+    'Dortmund',
+    '57.2',
+    '44269',
+    '1940-3-13',
+    'Anke',
+    '151',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gerste',
+    'Büsingstrasse 34',
+    'Grasbrunn',
+    '78.1',
+    '85626',
+    '1943-4-9',
+    'Sabrina',
+    '151',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Feierabend',
+    'Hermannstrasse 28',
+    'Heidelberg Kirchheim',
+    '70.4',
+    '69124',
+    '1972-11-19',
+    'Klaudia',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Jaeger',
+    'Eschenweg 42',
+    'Greiz',
+    '89.0',
+    '07966',
+    '1947-3-6',
+    'Erik',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Grunewald',
+    'Knesebeckstrasse 49',
+    'Ersfeld',
+    '87.4',
+    '57635',
+    '1972-2-16',
+    'Philipp',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gloeckner',
+    'Billwerder Neuer Deich 69',
+    'Mitwitz',
+    '57.2',
+    '96266',
+    '1937-5-10',
+    'Petra',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Ritter',
+    'Alt Reinickendorf 88',
+    'Ottobeuren',
+    '85.9',
+    '87721',
+    '1946-7-26',
+    'Marco',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eiffel',
+    'Nuernbergerstrasse 43',
+    'Mnte',
+    '111.3',
+    '23711',
+    '1978-11-4',
+    'Steffen',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frueh',
+    'Ziegelstr. 35',
+    'Simbach',
+    '108.3',
+    '84355',
+    '1992-6-26',
+    'Daniel',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Klug',
+    'Ellmenreichstrasse 63',
+    'Kulmbach',
+    '60.2',
+    '95302',
+    '1948-6-21',
+    'Tom',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bergmann',
+    'Unter den Linden 69',
+    'Schwerin',
+    '54.3',
+    '19053',
+    '1965-3-28',
+    'Diana',
+    '157',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Holzman',
+    'Esplanade 86',
+    'Amorbach',
+    '89.5',
+    '63916',
+    '1965-6-6',
+    'Uwe',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmer',
+    'Amsinckstrasse 9',
+    'Lauta',
+    '77.5',
+    '02989',
+    '1965-8-11',
+    'Matthias',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gottlieb',
+    'Koenigstrasse 22',
+    'Buttstädt',
+    '87.5',
+    '99627',
+    '1986-6-4',
+    'Stefan',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Oster',
+    'Rankestraße 99',
+    'Manching',
+    '51.9',
+    '85074',
+    '2003-10-8',
+    'Marina',
+    '152',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Bader',
+    'Spresstrasse 55',
+    'Flensburg',
+    '74.5',
+    '24917',
+    '1938-5-15',
+    'Uwe',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Waechter',
+    'Alt Reinickendorf 37',
+    'Thannhausen',
+    '83.7',
+    '86466',
+    '1976-5-15',
+    'Sven',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bayer',
+    'Ollenhauer Str. 98',
+    'Stuttgart Neugereut',
+    '77.7',
+    '70378',
+    '1990-9-17',
+    'Stefanie',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Burger',
+    'Boxhagener Str. 9',
+    'Hamburg Eimsbüttel',
+    '63.7',
+    '20259',
+    '1985-12-18',
+    'Dennis',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Vogt',
+    'Gubener Str. 52',
+    'Lenggries',
+    '91.8',
+    '83661',
+    '1954-8-7',
+    'Laura',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Werner',
+    'Luetzowplatz 47',
+    'Gindorf',
+    '61.8',
+    '54657',
+    '1942-6-14',
+    'Markus',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Peters',
+    'Güntzelstrasse 82',
+    'Piesport',
+    '69.0',
+    '54498',
+    '1949-8-21',
+    'Christian',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fenstermacher',
+    'Flughafenstrasse 54',
+    'Amberg',
+    '93.7',
+    '92224',
+    '1957-3-26',
+    'Dennis',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mahler',
+    'Eichendorffstr. 70',
+    'Kolbingen',
+    '57.9',
+    '78600',
+    '1988-5-8',
+    'Ute',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kalb',
+    'Mollstrasse 69',
+    'Schwabenheim an der Selz',
+    '66.0',
+    '55270',
+    '1951-8-11',
+    'Mario',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Beike',
+    'Oldesloer Strasse 8',
+    'Büna',
+    '93.9',
+    '07937',
+    '1956-4-16',
+    'Anja',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kortig',
+    'Lützowplatz 67',
+    'Dreis',
+    '73.8',
+    '54518',
+    '1951-11-30',
+    'Felix',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Krüger',
+    'Koenigstrasse 69',
+    'Buttstädt',
+    '99.7',
+    '99628',
+    '1971-8-22',
+    'Christin',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Maier',
+    'Flotowstr. 98',
+    'Wolfen',
+    '49.9',
+    '06754',
+    '1994-9-14',
+    'Heike',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Busch',
+    'Paderborner Strasse 59',
+    'Mindelheim',
+    '97.1',
+    '87712',
+    '1994-1-28',
+    'Patrick',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Vogt',
+    'Prenzlauer Allee 62',
+    'Leipzig',
+    '100.7',
+    '04205',
+    '1974-5-6',
+    'Sebastian',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Möller',
+    'An der Alster 66',
+    'Saßnitz',
+    '90.2',
+    '18541',
+    '1954-2-11',
+    'Katharina',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Reiniger',
+    'Rosenstrasse 75',
+    'München',
+    '99.8',
+    '81617',
+    '1967-8-23',
+    'Jennifer',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theiss',
+    'Feldstrasse 28',
+    'Amesdorf',
+    '70.2',
+    '39439',
+    '1966-8-14',
+    'Kevin',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zweig',
+    'Heinrich Heine Platz 80',
+    'Kirschau',
+    '93.7',
+    '02685',
+    '1984-12-27',
+    'Max',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Faerber',
+    'Ufnau Strasse 24',
+    'Kaltental',
+    '54.3',
+    '87662',
+    '1965-11-29',
+    'Nadine',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wirtz',
+    'Brandenburgische Straße 13',
+    'Berlin Lichtenberg',
+    '60.5',
+    '10367',
+    '1996-3-4',
+    'Luca',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fenstermacher',
+    'Ufnau Strasse 71',
+    'Memmingen',
+    '62.6',
+    '87681',
+    '1984-10-2',
+    'Barbara',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Rothschild',
+    'Nuernbergerstrasse 95',
+    'Boostedt',
+    '77.9',
+    '24595',
+    '1949-2-2',
+    'Tom',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Neumann',
+    'Prager Str 47',
+    'Fürstenfeldbruck',
+    '82.1',
+    '82247',
+    '1951-3-25',
+    'Marcel',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Dreher',
+    'Landsberger Allee 56',
+    'München',
+    '72.2',
+    '80061',
+    '1971-12-29',
+    'Peter',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Sanger',
+    'Borstelmannsweg 58',
+    'Amberg',
+    '84.3',
+    '92202',
+    '1948-11-12',
+    'Sara',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Frueh',
+    'Lange Strasse 4',
+    'Schwarmstedt',
+    '86.7',
+    '29690',
+    '1997-11-22',
+    'Anke',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Roth',
+    'Mohrenstrasse 29',
+    'Riedlingen',
+    '75.7',
+    '88499',
+    '1985-11-14',
+    'David',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kruger',
+    'Fischerinsel 30',
+    'Mönchengladbach Waldhausen',
+    '109.8',
+    '41061',
+    '1989-1-20',
+    'Swen',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schmitz',
+    'Jenaer Strasse 19',
+    'Duisburg',
+    '95.3',
+    '47179',
+    '1970-1-14',
+    'Birgit',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Finkel',
+    'Schönhauser Allee 91',
+    'Biederbach',
+    '72.1',
+    '79215',
+    '1953-10-2',
+    'Christin',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mueller',
+    'Adenauerallee 52',
+    'Adamshof',
+    '74.7',
+    '17091',
+    '1980-5-3',
+    'Daniela',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Weisz',
+    'Konstanzer Strasse 51',
+    'Heimbuchenthal',
+    '96.7',
+    '63872',
+    '1964-1-3',
+    'Barbara',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Egger',
+    'Frankfurter Allee 3',
+    'Neu-Ulm',
+    '99.3',
+    '89209',
+    '1950-10-5',
+    'Lukas',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baumgartner',
+    'Rhinstrasse 7',
+    'München',
+    '78.4',
+    '80939',
+    '1988-7-20',
+    'Ute',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koenig',
+    'Paul-Nevermann-Platz 36',
+    'Schondra',
+    '81.1',
+    '97795',
+    '1972-4-19',
+    'Max',
+    '179',
+    'DE02120300000000202051'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Hoover',
+    'Brandenburgische Str 53',
+    'Meckenbach',
+    '77.4',
+    '55767',
+    '1949-7-15',
+    'Marko',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Krüger',
+    'Leopoldstraße 43',
+    'Berlin Charlottenburg',
+    '63.1',
+    '14059',
+    '1949-10-16',
+    'Jürgen',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Waechter',
+    'Karl-Liebknecht-Strasse 3',
+    'Eystrup',
+    '87.3',
+    '27324',
+    '1941-11-1',
+    'Maximilian',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Neustadt',
+    'Rudolstaedter Strasse 8',
+    'Hüven',
+    '70.8',
+    '49751',
+    '1940-2-17',
+    'Phillipp',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schneider',
+    'Prager Str 31',
+    'Mammendorf',
+    '83.1',
+    '82291',
+    '1959-9-21',
+    'Petra',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Waechter',
+    'Frankfurter Allee 50',
+    'Neu-Ulm',
+    '49.5',
+    '89209',
+    '1943-5-15',
+    'Maria',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mahler',
+    'Fischerinsel 38',
+    'Nettetal',
+    '57.8',
+    '41334',
+    '1984-11-15',
+    'Sophie',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schmitt',
+    'Mellingburgredder 70',
+    'Erlangen',
+    '69.1',
+    '91012',
+    '1974-12-25',
+    'Gabriele',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bar',
+    'Messedamm 37',
+    'Dresden',
+    '87.8',
+    '01075',
+    '1971-9-17',
+    'Martina',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Blau',
+    'Fugger Strasse 63',
+    'Grube',
+    '77.2',
+    '14469',
+    '1969-7-3',
+    'Brigitte',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schwartz',
+    'Grolmanstraße 70',
+    'Bremen Ellener Feld',
+    '109.8',
+    '28327',
+    '1995-2-15',
+    'Tim',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Biermann',
+    'Flotowstr. 23',
+    'Lutherstadt Eisleben',
+    '61.2',
+    '06290',
+    '1993-12-17',
+    'Brigitte',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Vogt',
+    'Karl-Liebknecht-Strasse 23',
+    'Sudwalde',
+    '74.3',
+    '27257',
+    '1965-12-8',
+    'Robert',
+    '187',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Ebersbach',
+    'Michaelkirchstr. 40',
+    'Stolzenau',
+    '72.4',
+    '31592',
+    '1984-9-20',
+    'Thorsten',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schröder',
+    'Ansbacher Strasse 16',
+    'Brauneberg',
+    '95.7',
+    '54472',
+    '1951-7-17',
+    'Christian',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Urner',
+    'Rudower Chaussee 32',
+    'Bamberg',
+    '53.8',
+    '96019',
+    '1961-7-2',
+    'Katharina',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schulz',
+    'Alsterkrugchaussee 16',
+    'Veitsbronn',
+    '88.9',
+    '90585',
+    '1970-12-10',
+    'Maria',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Werfel',
+    'Amsinckstrasse 37',
+    'Bagenz',
+    '67.7',
+    '03130',
+    '1939-9-13',
+    'Melanie',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baer',
+    'Kantstraße 48',
+    'Meiningen',
+    '90.4',
+    '98606',
+    '1982-2-26',
+    'Christine',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kortig',
+    'Pappelallee 80',
+    'Börnichen',
+    '96.1',
+    '15907',
+    '1989-1-21',
+    'Ursula',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Farber',
+    'Spresstrasse 36',
+    'Bremerhaven Lehe',
+    '103.1',
+    '27576',
+    '1955-1-21',
+    'Stephan',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nacht',
+    'Budapester Strasse 56',
+    'Trappenkamp',
+    '62.8',
+    '24602',
+    '1995-9-22',
+    'Stephanie',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Eberhardt',
+    'Fugger Strasse 10',
+    'Koblenz Asterstein',
+    '57.4',
+    '56077',
+    '1972-12-24',
+    'Michelle',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bieber',
+    'Konstanzer Strasse 80',
+    'Laufach',
+    '54.5',
+    '63846',
+    '1981-10-6',
+    'Christina',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Diederich',
+    'Wallstrasse 38',
+    'Bad Neuenahr-Ahrweiler',
+    '66.7',
+    '53474',
+    '1998-8-16',
+    'Kristian',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Frey',
+    'Knesebeckstraße 8',
+    'Düren',
+    '68.7',
+    '52355',
+    '1947-2-23',
+    'Sophie',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Lowe',
+    'Paderborner Strasse 10',
+    'Schrobenhausen',
+    '71.6',
+    '86522',
+    '2000-6-19',
+    'Birgit',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Frueh',
+    'Genslerstraße 59',
+    'Berlin Schöneberg',
+    '56.7',
+    '10785',
+    '1967-1-14',
+    'Barbara',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fassbinder',
+    'Holstenwall 14',
+    'Zschornewitz',
+    '77.3',
+    '06788',
+    '1944-2-6',
+    'Stephan',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nussbaum',
+    'Park Str. 90',
+    'Düsseldorf Unterbilk',
+    '52.3',
+    '40219',
+    '1985-6-8',
+    'Martina',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Neumann',
+    'Knesebeckstrasse 26',
+    'Peterslahr',
+    '93.2',
+    '57614',
+    '1996-6-6',
+    'Thomas',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Freitag',
+    'Konstanzer Strasse 61',
+    'Jossgrund',
+    '50.1',
+    '63637',
+    '1958-4-19',
+    'Karin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Wagner',
+    'Schillerstrasse 7',
+    'Großaitingen',
+    '97.2',
+    '86845',
+    '1967-11-9',
+    'Kristin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Abt',
+    'Hermannstrasse 30',
+    'Worms Pfiffligheim',
+    '98.2',
+    '67549',
+    '1953-7-8',
+    'Kristian',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmerman',
+    'Joachimstaler Str. 20',
+    'Ehr',
+    '83.4',
+    '56357',
+    '1945-1-25',
+    'Mario',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Shuster',
+    'Bayreuther Strasse 52',
+    'Ulm Ermingen',
+    '75.3',
+    '89081',
+    '2001-5-9',
+    'Maximilian',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Grunwald',
+    'Kurfürstendamm 53',
+    'Rostock',
+    '70.4',
+    '18012',
+    '1960-7-18',
+    'Melanie',
+    '152',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Reiniger',
+    'Hedemannstasse 65',
+    'Gammertingen',
+    '85.6',
+    '72501',
+    '1955-2-8',
+    'Ralf',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kunze',
+    'Augsburger Straße 4',
+    'Kamen',
+    '88.6',
+    '59174',
+    '1948-5-10',
+    'Jonas',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Feierabend',
+    'Marseiller Strasse 68',
+    'Oberammergau',
+    '67.6',
+    '82484',
+    '1967-1-25',
+    'Dirk',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Sankt',
+    'Storkower Strasse 55',
+    'Freilingen',
+    '64.0',
+    '56244',
+    '2003-4-30',
+    'Swen',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Jager',
+    'Gubener Str. 54',
+    'Oberaudorf',
+    '76.8',
+    '83077',
+    '1981-12-28',
+    'Anna',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Unger',
+    'Kurfuerstendamm 14',
+    'München',
+    '62.6',
+    '80007',
+    '2000-8-9',
+    'Lisa',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Scholz',
+    'Buelowstrasse 71',
+    'Lautzenbrücken',
+    '94.7',
+    '56472',
+    '1951-9-19',
+    'Max',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Vogt',
+    'Los-Angeles-Platz 17',
+    'Schenefeld',
+    '95.4',
+    '22859',
+    '1987-5-6',
+    'Antje',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Pabst',
+    'Nuernbergerstrasse 1',
+    'Wiefelstede',
+    '91.1',
+    '26215',
+    '1966-7-31',
+    'Klaudia',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Diederich',
+    'Prenzlauer Allee 30',
+    'Naunhof',
+    '52.9',
+    '04681',
+    '1989-1-31',
+    'Julia',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schreiber',
+    'Hoheluftchaussee 58',
+    'Karsdorf',
+    '81.9',
+    '06638',
+    '1950-6-6',
+    'Niklas',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baum',
+    'Schönwalder Allee 88',
+    'Rodersdorf',
+    '104.0',
+    '38828',
+    '1953-11-18',
+    'Dominik',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Koch',
+    'Meinekestraße 12',
+    'Seesen',
+    '87.6',
+    '38723',
+    '1984-3-26',
+    'Monika',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Drescher',
+    'Gotzkowskystrasse 74',
+    'Welkenbach',
+    '89.9',
+    '57644',
+    '1937-6-30',
+    'Erik',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Biermann',
+    'Rudolstaedter Strasse 97',
+    'Frammersbach',
+    '78.7',
+    '97830',
+    '1983-9-15',
+    'Daniela',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Metzger',
+    'Pasewalker Straße 8',
+    'Pforzheim Arlinger',
+    '109.1',
+    '75179',
+    '1979-11-30',
+    'Luca',
+    '189',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Muench',
+    'Bleibtreustraße 29',
+    'Weilheim',
+    '55.6',
+    '79809',
+    '1963-2-20',
+    'Anna',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schreiber',
+    'Lietzensee-Ufer 89',
+    'Elsterwerda',
+    '84.7',
+    '04906',
+    '1949-12-28',
+    'Anja',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theissen',
+    'Budapester Straße 90',
+    'Simmern/ Hunsrück',
+    '88.4',
+    '55469',
+    '1979-8-12',
+    'Bernd',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schultheiss',
+    'Kirchenallee 70',
+    'Rattenberg',
+    '102.1',
+    '94371',
+    '1953-10-7',
+    'Felix',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Reinhardt',
+    'Eichendorffstr. 58',
+    'Konstanz Wallhausen',
+    '94.0',
+    '78465',
+    '1999-12-7',
+    'Ulrich',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Achen',
+    'Rudower Strasse 96',
+    'Bleialf',
+    '73.1',
+    '54608',
+    '1951-10-21',
+    'Daniel',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Klug',
+    'Wallstrasse 42',
+    'Oberzissen',
+    '73.8',
+    '56651',
+    '1956-12-5',
+    'Jörg',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Sommer',
+    'Genslerstraße 84',
+    'Berlin Weißensee',
+    '108.7',
+    '13086',
+    '1955-1-13',
+    'Max',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bürger',
+    'Augsburger Straße 60',
+    'Kamen',
+    '86.4',
+    '59174',
+    '1965-6-28',
+    'Ute',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Jaeger',
+    'Brandenburgische Strasse 48',
+    'Bobenheim am Berg',
+    '93.0',
+    '67273',
+    '1987-7-5',
+    'Benjamin',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Busch',
+    'Billwerder Neuer Deich 47',
+    'Nordhalben',
+    '104.9',
+    '96365',
+    '1958-6-29',
+    'Sven',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Friedman',
+    'Neuer Jungfernstieg 34',
+    'Pfeffenhausen',
+    '81.0',
+    '84073',
+    '1998-10-23',
+    'Claudia',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Hueber',
+    'Luebecker Strasse 58',
+    'Kirchlauter',
+    '79.8',
+    '96166',
+    '1955-11-17',
+    'Lea',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Neustadt',
+    'Hallesches Ufer 95',
+    'Gäufelden',
+    '62.3',
+    '71126',
+    '1971-3-1',
+    'Marie',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Dresner',
+    'Gotthardstrasse 47',
+    'Erfurt',
+    '99.2',
+    '99013',
+    '1985-5-23',
+    'Tom',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Abt',
+    'Flughafenstrasse 71',
+    'Sulzbach-Rosenberg',
+    '50.2',
+    '92229',
+    '1940-5-11',
+    'Sophie',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bohm',
+    'Sonnenallee 48',
+    'Augsburg',
+    '78.7',
+    '86043',
+    '1992-3-18',
+    'Sabrina',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fassbinder',
+    'Rudolstaedter Strasse 33',
+    'Rheine',
+    '72.8',
+    '48431',
+    '1957-11-22',
+    'Ulrike',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fuhrmann',
+    'Schoenebergerstrasse 37',
+    'Netzschkau',
+    '103.2',
+    '08487',
+    '1989-8-12',
+    'Uwe',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schmitt',
+    'Rathausstrasse 60',
+    'Fürth',
+    '99.9',
+    '90715',
+    '1993-11-22',
+    'Max',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Moeller',
+    'Brandenburgische Strasse 9',
+    'Heuchelheim-Klingen',
+    '81.5',
+    '76831',
+    '1947-10-10',
+    'Lukas',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fleischer',
+    'Feldstrasse 1',
+    'Friedrichsbrunn',
+    '91.0',
+    '06509',
+    '1978-3-15',
+    'Marina',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eberhart',
+    'Flughafenstrasse 72',
+    'Erbendorf',
+    '93.7',
+    '92681',
+    '1951-6-16',
+    'Marco',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fleischer',
+    'Rathausstrasse 32',
+    'Fürth',
+    '68.6',
+    '90710',
+    '1961-4-18',
+    'Tobias',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baader',
+    'Charlottenstrasse 80',
+    'Cottbus',
+    '83.6',
+    '03046',
+    '1963-3-19',
+    'Klaudia',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Papst',
+    'Prenzlauer Allee 91',
+    'Leipzig',
+    '58.7',
+    '04025',
+    '1969-9-4',
+    'Andrea',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bohm',
+    'Alter Wall 4',
+    'Geroldshausen',
+    '94.1',
+    '97256',
+    '1986-3-23',
+    'Stefanie',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herman',
+    'Kirchenallee 95',
+    'Grattersdorf',
+    '79.6',
+    '94541',
+    '1958-10-11',
+    'Sarah',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kaestner',
+    'Luckenwalder Strasse 14',
+    'Surwold',
+    '75.1',
+    '26903',
+    '1954-4-28',
+    'Marcel',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Abt',
+    'Los-Angeles-Platz 32',
+    'Hamburg Steinwerder',
+    '83.5',
+    '20457',
+    '1950-12-15',
+    'Uwe',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Herz',
+    'Joachimstaler Str. 72',
+    'Kirchberg',
+    '67.7',
+    '08102',
+    '1948-7-27',
+    'Steffen',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gloeckner',
+    'Waldowstr. 81',
+    'Dörzbach',
+    '82.4',
+    '74677',
+    '1971-12-24',
+    'Eric',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herzog',
+    'Joachimstaler Str. 47',
+    'Ravengiersburg',
+    '67.8',
+    '55471',
+    '1938-11-17',
+    'Birgit',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Ritter',
+    'Genslerstraße 36',
+    'Berlin Tempelhof',
+    '98.7',
+    '12099',
+    '1994-4-11',
+    'René',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Maurer',
+    'Am Borsigturm 38',
+    'Ratingen Zentrum',
+    '109.4',
+    '40880',
+    '1999-9-1',
+    'Dirk',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wexler',
+    'Wallstrasse 60',
+    'Rech',
+    '71.5',
+    '53506',
+    '1964-8-27',
+    'Stephan',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Adler',
+    'Rohrdamm 21',
+    'Bad Salzuflen Schötmar',
+    '65.6',
+    '32108',
+    '1940-2-7',
+    'Tim',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Dreher',
+    'Bleibtreustraße 10',
+    'Hohberg',
+    '69.9',
+    '77749',
+    '1987-11-13',
+    'Katharina',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Dietrich',
+    'Waldowstr. 2',
+    'Schenkenzell',
+    '80.0',
+    '77773',
+    '1965-7-1',
+    'Sophie',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Dresner',
+    'Marseiller Strasse 71',
+    'Kochel',
+    '92.9',
+    '82428',
+    '1952-10-20',
+    'Lisa',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Lang',
+    'Leipziger Strasse 61',
+    'Minden Holzhausen',
+    '74.6',
+    '32425',
+    '2002-3-17',
+    'Susanne',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gruenewald',
+    'Stresemannstr. 52',
+    'Saarlouis',
+    '90.7',
+    '66740',
+    '1964-2-27',
+    'Marco',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bohm',
+    'Güntzelstrasse 43',
+    'Heckenmünster',
+    '97.6',
+    '54518',
+    '1950-7-20',
+    'Susanne',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Papst',
+    'Ruschestrasse 11',
+    'Stendal',
+    '66.6',
+    '39576',
+    '1964-5-5',
+    'Sabrina',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schäfer',
+    'Fugger Strasse 6',
+    'Koblenz Wallersheim',
+    '97.9',
+    '56070',
+    '1984-4-23',
+    'Max',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nagel',
+    'Los-Angeles-Platz 22',
+    'Hamburg Wilhelmsburg',
+    '80.2',
+    '21107',
+    '1974-10-1',
+    'Brigitte',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Faust',
+    'Kantstrasse 76',
+    'Oberasbach',
+    '85.9',
+    '90522',
+    '1950-9-26',
+    'Leon',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Egger',
+    'Friedrichstrasse 89',
+    'Oberhausen Stadtmitte',
+    '76.2',
+    '46045',
+    '1951-3-11',
+    'Jürgen',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Unger',
+    'Meinekestraße 95',
+    'Bad Iburg',
+    '56.8',
+    '49186',
+    '1949-2-27',
+    'Lisa',
+    '157',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baader',
+    'Jahnstrasse 10',
+    'Achen',
+    '56.5',
+    '83552',
+    '1998-7-19',
+    'Kathrin',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kappel',
+    'Stuttgarter Platz 54',
+    'Obernhof',
+    '92.0',
+    '56379',
+    '1987-1-17',
+    'Jan',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Beich',
+    'Leipziger Straße 57',
+    'Heinsen',
+    '81.2',
+    '37649',
+    '1973-2-17',
+    'Erik',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Freytag',
+    'Ellmenreichstrasse 6',
+    'Weismain',
+    '71.3',
+    '96259',
+    '1989-2-6',
+    'Steffen',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Farber',
+    'Hochstrasse 1',
+    'Westerland',
+    '85.0',
+    '25963',
+    '1955-8-9',
+    'Sara',
+    '152',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Friedman',
+    'Boxhagener Str. 65',
+    'Hamburg Hoheluft-Ost',
+    '110.4',
+    '20253',
+    '1977-8-31',
+    'Swen',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baum',
+    'Lützowplatz 42',
+    'Irsch',
+    '74.5',
+    '54451',
+    '1970-10-17',
+    'Marcel',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Richter',
+    'Schönwalder Allee 4',
+    'Eckernförde',
+    '76.9',
+    '24332',
+    '1966-5-15',
+    'Philipp',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Sankt',
+    'Gotzkowskystrasse 40',
+    'Mammelzen',
+    '106.4',
+    '57636',
+    '1988-11-4',
+    'Jan',
+    '187',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Werner',
+    'Karl-Liebknecht-Strasse 82',
+    'Hanstedt',
+    '65.2',
+    '21271',
+    '1995-2-23',
+    'Daniel',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schwab',
+    'Pappelallee 37',
+    'Börnichen',
+    '90.4',
+    '15907',
+    '1972-9-4',
+    'Ulrike',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schuhmacher',
+    'Gotzkowskystraße 59',
+    'Südlohn',
+    '80.7',
+    '46354',
+    '1939-9-9',
+    'Katrin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schweitzer',
+    'Gruenauer Strasse 30',
+    'Lauenburg',
+    '89.2',
+    '21473',
+    '1967-11-26',
+    'Heike',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baumgaertner',
+    'Büsingstrasse 76',
+    'Dachau',
+    '86.0',
+    '85208',
+    '1999-7-7',
+    'Anna',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fisher',
+    'Meininger Strasse 65',
+    'Illingen',
+    '85.0',
+    '66553',
+    '1972-8-18',
+    'Kristin',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wechsler',
+    'Rathausstrasse 90',
+    'Fürth',
+    '72.2',
+    '90701',
+    '1979-1-9',
+    'Jan',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kruger',
+    'Rosenstrasse 99',
+    'München',
+    '48.3',
+    '81667',
+    '1999-2-6',
+    'Sabrina',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Muench',
+    'Leipziger Straße 64',
+    'Bilshausen',
+    '85.2',
+    '37434',
+    '1959-10-2',
+    'Maximilian',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Pfeiffer',
+    'Fugger Strasse 48',
+    'Koblenz Vorstadt',
+    '105.1',
+    '56075',
+    '1942-6-18',
+    'Franziska',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baumgaertner',
+    'Stresemannstr. 58',
+    'Namborn',
+    '51.0',
+    '66639',
+    '1953-12-22',
+    'Kristin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lemann',
+    'Budapester Strasse 24',
+    'Bülstedt',
+    '112.7',
+    '27412',
+    '1973-3-18',
+    'Felix',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Werner',
+    'Lietzenburger Straße 54',
+    'Neuenhaus',
+    '85.7',
+    '49828',
+    '1951-12-5',
+    'Maik',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Adler',
+    'Boxhagener Str. 45',
+    'Hamburg Eidelstedt',
+    '59.0',
+    '22457',
+    '1998-4-15',
+    'Franziska',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Junker',
+    'Spresstrasse 63',
+    'Bielefeld Innenstadt',
+    '101.2',
+    '33613',
+    '1991-4-14',
+    'Marco',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baer',
+    'Ufnau Strasse 33',
+    'Bernbeuren',
+    '78.0',
+    '86975',
+    '2002-9-28',
+    'Frank',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gersten',
+    'Ansbacher Strasse 71',
+    'Weitersbach',
+    '93.2',
+    '55624',
+    '1938-10-20',
+    'Christin',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fink',
+    'Schillerstrasse 31',
+    'Egling',
+    '66.4',
+    '82542',
+    '1967-12-13',
+    'Martin',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gruenewald',
+    'Charlottenstrasse 83',
+    'Freital',
+    '66.4',
+    '01699',
+    '1965-3-17',
+    'Heike',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zweig',
+    'Friedrichstrasse 5',
+    'Düsseldorf Gerresheim',
+    '69.5',
+    '40629',
+    '1997-6-18',
+    'Jens',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schiffer',
+    'Hardenbergstraße 28',
+    'Hirschthal',
+    '84.5',
+    '66996',
+    '1979-12-31',
+    'Marina',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fassbinder',
+    'Budapester Straße 69',
+    'Weilburg',
+    '89.5',
+    '35781',
+    '1990-3-6',
+    'Klaudia',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schultheiss',
+    'Am Borsigturm 12',
+    'Neuss Barbaraviertel',
+    '76.1',
+    '41460',
+    '1981-12-12',
+    'Laura',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kaestner',
+    'Rohrdamm 55',
+    'Lage',
+    '87.7',
+    '49828',
+    '1980-1-31',
+    'Marco',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fisher',
+    'Prager Str 1',
+    'Freising',
+    '73.4',
+    '85317',
+    '1963-5-7',
+    'Silke',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schroeder',
+    'Alter Wall 12',
+    'Kleinheubach',
+    '82.2',
+    '63921',
+    '1973-12-8',
+    'Lea',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Traugott',
+    'Ansbacher Strasse 7',
+    'Lasel',
+    '100.4',
+    '54612',
+    '2002-6-16',
+    'Thorsten',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fuhrmann',
+    'Ollenhauer Str. 92',
+    'Stuttgart Stammheim',
+    '47.1',
+    '70435',
+    '1997-12-5',
+    'Sabrina',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Beike',
+    'Buelowstrasse 37',
+    'Dreisbach',
+    '64.6',
+    '56472',
+    '1954-4-17',
+    'Maik',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Köhler',
+    'Koenigstrasse 54',
+    'Ebersdorf',
+    '85.7',
+    '07368',
+    '1940-12-26',
+    'Benjamin',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Braun',
+    'Unter den Linden 56',
+    'Magdeburg',
+    '60.2',
+    '39014',
+    '1982-2-21',
+    'Simone',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Hofmann',
+    'Kantstraße 63',
+    'Freiberg',
+    '115.1',
+    '09583',
+    '1984-10-13',
+    'Dieter',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kaestner',
+    'Meinekestraße 76',
+    'Lutter am Barenberge',
+    '93.7',
+    '38729',
+    '1996-11-9',
+    'Kathrin',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nagel',
+    'Kurfuerstendamm 38',
+    'München',
+    '83.0',
+    '80014',
+    '1949-2-6',
+    'Anne',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bar',
+    'Luetzowplatz 99',
+    'Ammeldingen an der Our',
+    '49.8',
+    '54675',
+    '1945-1-22',
+    'Stephanie',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Freud',
+    'Hallesches Ufer 1',
+    'Wadern',
+    '99.0',
+    '66687',
+    '1951-4-23',
+    'Barbara',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kuster',
+    'Buelowstrasse 65',
+    'Rieden',
+    '97.3',
+    '92286',
+    '1940-8-7',
+    'Dennis',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Rothschild',
+    'Bissingzeile 1',
+    'Großenwörden',
+    '99.1',
+    '21712',
+    '1970-2-19',
+    'Frank',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Theissen',
+    'Lützowplatz 11',
+    'Hentern',
+    '104.7',
+    '54314',
+    '1978-11-11',
+    'Melanie',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Faerber',
+    'Bleibtreustrasse 11',
+    'Lügde',
+    '79.7',
+    '32676',
+    '1939-4-25',
+    'Wolfgang',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Wagner',
+    'Am Borsigturm 81',
+    'Velbert Birth',
+    '92.5',
+    '42549',
+    '1980-12-5',
+    'Stefanie',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Konig',
+    'Mühlenstrasse 11',
+    'Gerbrunn',
+    '99.8',
+    '97218',
+    '1977-2-23',
+    'Thomas',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kirsch',
+    'Schmarjestrasse 85',
+    'Müncheberg',
+    '78.1',
+    '15372',
+    '1989-4-18',
+    'Jens',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Hoover',
+    'Heinrich Heine Platz 40',
+    'Zittau',
+    '104.4',
+    '02752',
+    '1989-8-14',
+    'Robert',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herzog',
+    'Fugger Strasse 77',
+    'Dessau',
+    '56.5',
+    '06820',
+    '1952-3-16',
+    'Lena',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Moench',
+    'Rathausstrasse 58',
+    'Heroldsberg',
+    '114.9',
+    '90560',
+    '1970-7-28',
+    'Lukas',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kaiser',
+    'Fontenay 83',
+    'Neuenmarkt',
+    '76.0',
+    '95339',
+    '1978-12-5',
+    'Christina',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmermann',
+    'Sonnenallee 39',
+    'Augsburg',
+    '69.5',
+    '86037',
+    '1987-1-9',
+    'Ulrich',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lange',
+    'Gotzkowskystrasse 84',
+    'Höchstenbach',
+    '66.0',
+    '57629',
+    '1976-4-27',
+    'Erik',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lang',
+    'Heinrich Heine Platz 54',
+    'Bautzen',
+    '83.2',
+    '02607',
+    '1949-4-17',
+    'Christian',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Trommler',
+    'Bissingzeile 6',
+    'Hollnseth',
+    '92.6',
+    '21769',
+    '1967-3-31',
+    'Sebastian',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frey',
+    'Büsingstrasse 45',
+    'Wörth',
+    '73.3',
+    '93084',
+    '1944-7-8',
+    'Alexander',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Neumann',
+    'Sömmeringstr. 57',
+    'Hördt',
+    '85.7',
+    '76771',
+    '1949-1-30',
+    'Mario',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Probst',
+    'Potsdamer Platz 92',
+    'Wasserburg',
+    '63.7',
+    '88140',
+    '1947-12-28',
+    'Eric',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kalb',
+    'An der Schillingbrucke 6',
+    'Dietenheim',
+    '64.0',
+    '89165',
+    '1950-1-11',
+    'Katharina',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Theiss',
+    'Storkower Strasse 81',
+    'Hundsdorf',
+    '99.3',
+    '56235',
+    '1945-2-8',
+    'Klaudia',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bergmann',
+    'Lietzensee-Ufer 77',
+    'Meißen',
+    '97.4',
+    '01653',
+    '1979-7-16',
+    'Katharina',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kaufmann',
+    'Flotowstr. 76',
+    'Aschersleben',
+    '81.2',
+    '06433',
+    '1941-6-1',
+    'Anja',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Nagel',
+    'Schoenebergerstrasse 67',
+    'Schwarzenberg',
+    '81.5',
+    '08335',
+    '1945-10-14',
+    'Ralf',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schmidt',
+    'Flughafenstrasse 82',
+    'Teunz',
+    '98.0',
+    '92552',
+    '1994-4-14',
+    'Frank',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gersten',
+    'Fischerinsel 90',
+    'Korschenbroich',
+    '80.0',
+    '41352',
+    '1953-12-7',
+    'Angelika',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Wirtz',
+    'An der Alster 73',
+    'Ahrensdorf',
+    '78.5',
+    '15864',
+    '1974-7-28',
+    'Gabriele',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eichel',
+    'Mellingburgredder 78',
+    'Erlangen',
+    '69.6',
+    '91014',
+    '1947-6-16',
+    'Jörg',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koenig',
+    'Kieler Strasse 64',
+    'Unterwössen',
+    '98.8',
+    '83244',
+    '1945-2-25',
+    'Peter',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Urner',
+    'Leopoldstraße 58',
+    'Bochum',
+    '65.0',
+    '44869',
+    '1977-5-29',
+    'Daniel',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Waechter',
+    'Am Borsigturm 72',
+    'Rollhäusl',
+    '98.0',
+    '94107',
+    '1967-11-1',
+    'Maik',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gerste',
+    'Schaarsteinweg 70',
+    'Cham',
+    '61.3',
+    '93402',
+    '1954-4-14',
+    'Claudia',
+    '157',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Dresdner',
+    'Kantstrasse 55',
+    'Schwaig',
+    '73.6',
+    '90563',
+    '1997-6-27',
+    'Mario',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Sommer',
+    'Hoheluftchaussee 19',
+    'Liebertwolkwitz',
+    '74.1',
+    '04443',
+    '2000-4-24',
+    'Monika',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Wagner',
+    'Spresstrasse 49',
+    'Westoverledingen',
+    '104.2',
+    '26810',
+    '1973-1-29',
+    'Jennifer',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Meister',
+    'Gotzkowskystrasse 80',
+    'Schönbach',
+    '95.7',
+    '54552',
+    '1990-1-10',
+    'Sabrina',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Vogel',
+    'Anhalter Strasse 45',
+    'Oberndorf',
+    '69.4',
+    '21787',
+    '1947-11-9',
+    'Jörg',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Konig',
+    'Alsterkrugchaussee 96',
+    'Langenzenn',
+    '62.5',
+    '90575',
+    '1967-6-27',
+    'Melanie',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fassbinder',
+    'Ellmenreichstrasse 85',
+    'Kulmbach',
+    '99.2',
+    '95307',
+    '1986-9-19',
+    'Maximilian',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Beike',
+    'Hochstrasse 19',
+    'Stoltebüll',
+    '102.6',
+    '24409',
+    '1945-10-10',
+    'Sven',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gruenewald',
+    'Bleibtreustrasse 53',
+    'Herzebrock-Clarholz',
+    '53.7',
+    '33442',
+    '2003-9-12',
+    'Matthias',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Foerster',
+    'Neue Roßstr. 82',
+    'Esslingen Sankt Bernhardt',
+    '79.5',
+    '73732',
+    '1992-10-5',
+    'Andrea',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Krause',
+    'Storkower Strasse 66',
+    'Freilingen',
+    '95.6',
+    '56244',
+    '1994-7-25',
+    'Mario',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schwartz',
+    'Luetzowplatz 94',
+    'Hupperath',
+    '49.8',
+    '54518',
+    '1986-6-19',
+    'Sara',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Foerster',
+    'Michaelkirchstr. 33',
+    'Volkmarsen',
+    '83.6',
+    '34471',
+    '1963-12-3',
+    'Manuela',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schwartz',
+    'Kurfürstendamm 1',
+    'Baumgarten',
+    '81.8',
+    '18246',
+    '1953-5-20',
+    'Sophie',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Brandt',
+    'Bayreuther Strasse 64',
+    'Frankfurt',
+    '58.7',
+    '15208',
+    '1985-10-3',
+    'Ines',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kortig',
+    'Meininger Strasse 59',
+    'Neunkirchen',
+    '76.8',
+    '66522',
+    '1942-5-13',
+    'Stephan',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Koertig',
+    'Paderborner Strasse 43',
+    'Oberrieden',
+    '92.0',
+    '87769',
+    '1988-11-10',
+    'Martina',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schweitzer',
+    'Luetzowplatz 30',
+    'Gransdorf',
+    '92.4',
+    '54533',
+    '1990-11-28',
+    'Susanne',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Oster',
+    'Schoenebergerstrasse 62',
+    'Schneeberg',
+    '101.5',
+    '63936',
+    '1940-7-26',
+    'Dennis',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Loewe',
+    'Reeperbahn 74',
+    'Bad Doberan',
+    '90.3',
+    '18201',
+    '1964-2-29',
+    'Birgit',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Cole',
+    'Hans-Grade-Allee 92',
+    'Böklund',
+    '63.2',
+    '24858',
+    '1965-11-16',
+    'Ines',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Werner',
+    'Charlottenstrasse 98',
+    'Radebeul',
+    '92.1',
+    '01439',
+    '1991-10-22',
+    'Monika',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Pfaff',
+    'Ansbacher Strasse 34',
+    'Altstrimmig',
+    '57.0',
+    '56858',
+    '1998-3-19',
+    'René',
+    '189',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Walter',
+    'Hollander Strasse 39',
+    'Berod bei Wallmerod',
+    '67.9',
+    '56414',
+    '1945-8-23',
+    'Swen',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Herzog',
+    'Leipziger Straße 69',
+    'Arholzen',
+    '86.8',
+    '37627',
+    '2001-8-7',
+    'Phillipp',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frankfurter',
+    'Meinekestraße 21',
+    'Eggermühlen',
+    '73.0',
+    '49577',
+    '1938-11-18',
+    'David',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Winkel',
+    'Stresemannstr. 91',
+    'Nohfelden',
+    '65.7',
+    '66621',
+    '1973-8-27',
+    'Swen',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Reiniger',
+    'Güntzelstrasse 78',
+    'Gräfendhron',
+    '82.2',
+    '54426',
+    '1943-10-16',
+    'Paul',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baumgaertner',
+    'Konstanzer Strasse 83',
+    'Niedernberg',
+    '98.1',
+    '63843',
+    '1967-10-23',
+    'Stefan',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Mahler',
+    'Augsburger Strasse 71',
+    'Wirft',
+    '105.5',
+    '53534',
+    '1975-10-25',
+    'Steffen',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eichel',
+    'Bayreuther Strasse 22',
+    'Reutlingen Mittelstadt',
+    '108.5',
+    '72766',
+    '1953-5-12',
+    'Bernd',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Drechsler',
+    'Lietzensee-Ufer 77',
+    'Senftenberg',
+    '100.2',
+    '01957',
+    '1976-12-4',
+    'Niklas',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Nagel',
+    'Sonnenallee 58',
+    'Augsburg',
+    '104.2',
+    '86043',
+    '1961-12-13',
+    'Marco',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Weissmuller',
+    'Kastanienallee 26',
+    'Seefeld',
+    '87.5',
+    '82227',
+    '1953-5-2',
+    'Marco',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Urner',
+    'Mühlenstrasse 80',
+    'Regensburg',
+    '70.9',
+    '93007',
+    '1941-9-26',
+    'Marie',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Furst',
+    'Chausseestr. 97',
+    'Demmin',
+    '52.2',
+    '17102',
+    '1958-1-26',
+    'Jana',
+    '157',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Peters',
+    'Los-Angeles-Platz 60',
+    'Hamburg Sülldorf',
+    '71.9',
+    '22587',
+    '1973-10-28',
+    'Franziska',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theissen',
+    'Pohlstrasse 78',
+    'Jerxheim',
+    '68.3',
+    '38381',
+    '2001-4-27',
+    'Klaus',
+    '190',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Blau',
+    'Bleibtreustrasse 70',
+    'Paderborn Elsen',
+    '82.1',
+    '33104',
+    '1993-3-2',
+    'Jan',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Trommler',
+    'Wallstrasse 31',
+    'Sinzig',
+    '97.4',
+    '53489',
+    '1952-1-12',
+    'Thomas',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Vogt',
+    'Michaelkirchstr. 1',
+    'Minden Barkhausen',
+    '69.4',
+    '32429',
+    '1991-7-16',
+    'Dominik',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Waechter',
+    'Kantstrasse 39',
+    'Bayreuth',
+    '74.2',
+    '95448',
+    '1985-11-18',
+    'Ines',
+    '157',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Herz',
+    'Storkower Strasse 48',
+    'Hundsdorf',
+    '67.9',
+    '56235',
+    '1940-12-2',
+    'Daniel',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmermann',
+    'Eschenweg 64',
+    'Sonneberg',
+    '66.1',
+    '96504',
+    '1947-11-10',
+    'Christian',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wulf',
+    'Kantstrasse 40',
+    'Nürnberg',
+    '88.1',
+    '90427',
+    '1979-8-13',
+    'Peter',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Rothstein',
+    'Augsburger Straße 44',
+    'Herne',
+    '74.0',
+    '44652',
+    '1991-10-18',
+    'Paul',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Lange',
+    'Hochstrasse 99',
+    'Schafflund',
+    '64.5',
+    '24978',
+    '1990-8-15',
+    'Silke',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schneider',
+    'Ollenhauer Str. 14',
+    'Stuttgart Steinhaldenfeld',
+    '75.7',
+    '70378',
+    '1979-5-20',
+    'Lea',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Amsel',
+    'Feldstrasse 20',
+    'Biederitz',
+    '84.6',
+    '39172',
+    '1979-10-18',
+    'Erik',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gottlieb',
+    'Reeperbahn 78',
+    'Albertsdorf',
+    '79.0',
+    '18182',
+    '1942-6-28',
+    'Tom',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Köhler',
+    'Mollstrasse 99',
+    'Dexheim',
+    '99.6',
+    '55278',
+    '1968-7-27',
+    'Swen',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nadel',
+    'Billwerder Neuer Deich 55',
+    'Ludwigsstadt',
+    '64.4',
+    '96334',
+    '1986-10-9',
+    'Sabine',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gruenewald',
+    'Luckenwalder Strasse 75',
+    'Stedesdorf',
+    '108.2',
+    '26427',
+    '1995-12-24',
+    'Jan',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schuhmacher',
+    'Mohrenstrasse 23',
+    'Burgrieden',
+    '49.3',
+    '88483',
+    '2002-2-17',
+    'Lea',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Muench',
+    'Friedrichstrasse 68',
+    'Düsseldorf Hubbelrath',
+    '69.0',
+    '40629',
+    '1983-1-26',
+    'Michelle',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Wirth',
+    'Pohlstrasse 93',
+    'Hornburg',
+    '103.8',
+    '38315',
+    '1986-10-22',
+    'Lisa',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Pfeifer',
+    'An Der Urania 25',
+    'Hohenlockstedt',
+    '66.8',
+    '25551',
+    '1998-2-3',
+    'Laura',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Friedman',
+    'Oldesloer Strasse 52',
+    'Gehren',
+    '75.8',
+    '98708',
+    '1989-10-4',
+    'Wolfgang',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schweizer',
+    'Heinrich Heine Platz 96',
+    'Leinefelde',
+    '60.5',
+    '37321',
+    '2000-4-22',
+    'Anja',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmermann',
+    'Schönhauser Allee 39',
+    'Ibach',
+    '79.5',
+    '79837',
+    '1960-11-18',
+    'Erik',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Meier',
+    'Flughafenstrasse 37',
+    'Kemnath',
+    '75.0',
+    '95478',
+    '1977-2-12',
+    'Thorsten',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frei',
+    'Flughafenstrasse 59',
+    'Eslarn',
+    '113.5',
+    '92691',
+    '1985-2-5',
+    'Luca',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Austerlitz',
+    'Oldesloer Strasse 89',
+    'Rohr',
+    '80.0',
+    '91189',
+    '1940-10-6',
+    'Dennis',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Unger',
+    'Hollander Strasse 75',
+    'Wettenberg',
+    '93.3',
+    '35435',
+    '1990-10-15',
+    'Philipp',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nussbaum',
+    'Knesebeckstraße 37',
+    'Recklinghausen',
+    '64.4',
+    '45661',
+    '1957-1-10',
+    'Yvonne',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eberhart',
+    'Sonnenallee 10',
+    'Augsburg',
+    '77.4',
+    '86003',
+    '2003-3-23',
+    'Florian',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Decker',
+    'Brandenburgische Str. 28',
+    'Offenau',
+    '55.2',
+    '74254',
+    '1995-2-20',
+    'Silke',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Berg',
+    'Schillerstrasse 40',
+    'Igling',
+    '115.0',
+    '86859',
+    '1975-10-20',
+    'Maximilian',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fiedler',
+    'Jahnstrasse 95',
+    'Rechtmehring',
+    '84.7',
+    '83562',
+    '1953-5-8',
+    'Lea',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Köhler',
+    'Waldowstr. 79',
+    'Forchtenberg',
+    '103.6',
+    '74670',
+    '1985-7-19',
+    'Uwe',
+    '189',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Meyer',
+    'Rhinstrasse 88',
+    'München',
+    '63.1',
+    '81241',
+    '1985-11-14',
+    'Ralph',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schwab',
+    'Am Borsigturm 15',
+    'Velbert Neviges',
+    '89.1',
+    '42553',
+    '1954-5-19',
+    'Sven',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kuester',
+    'Alsterkrugchaussee 97',
+    'Möttingen',
+    '94.5',
+    '86753',
+    '1962-10-26',
+    'Anja',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Goldschmidt',
+    'Hollander Strasse 70',
+    'Bilkheim',
+    '76.2',
+    '56414',
+    '1991-3-22',
+    'Johanna',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Mueller',
+    'Schönhauser Allee 70',
+    'Vöhrenbach',
+    '70.8',
+    '78147',
+    '1964-6-26',
+    'Dominik',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gruenewald',
+    'Rudower Chaussee 21',
+    'Bottrop Nord-Ost-Innenstadt',
+    '100.0',
+    '46236',
+    '1996-5-21',
+    'Janina',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eiffel',
+    'Charlottenstrasse 99',
+    'Cottbus',
+    '68.6',
+    '03046',
+    '1997-12-29',
+    'Sven',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Hartmann',
+    'Koepenicker Str. 7',
+    'Reichenbach',
+    '76.9',
+    '93189',
+    '1995-8-7',
+    'Lena',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wexler',
+    'Albrechtstrasse 74',
+    'Ingolstadt',
+    '68.8',
+    '85057',
+    '1974-7-4',
+    'Ulrich',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Meister',
+    'Motzstr. 90',
+    'Winterbach',
+    '51.0',
+    '55595',
+    '1949-9-5',
+    'Daniela',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kuster',
+    'Güntzelstrasse 70',
+    'Reinsfeld',
+    '72.6',
+    '54421',
+    '2000-5-26',
+    'Melanie',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kunze',
+    'Chausseestr. 29',
+    'Anklam',
+    '79.1',
+    '17382',
+    '1969-1-20',
+    'Kerstin',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kaestner',
+    'Charlottenstrasse 8',
+    'Freital',
+    '71.1',
+    '01699',
+    '1944-8-1',
+    'Thorsten',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schwartz',
+    'An der Alster 82',
+    'Neuendorf',
+    '70.4',
+    '97788',
+    '1992-1-12',
+    'Markus',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Egger',
+    'An der Alster 22',
+    'Neuendorf',
+    '69.1',
+    '17373',
+    '2002-4-19',
+    'Antje',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Drescher',
+    'Michaelkirchstr. 73',
+    'Raddestorf',
+    '96.5',
+    '31604',
+    '1948-6-10',
+    'Anna',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Peters',
+    'Lietzenburger Straße 70',
+    'Soltendieck',
+    '77.8',
+    '29594',
+    '1989-3-21',
+    'Claudia',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Braun',
+    'Alt-Moabit 37',
+    'Wildau',
+    '74.7',
+    '15742',
+    '1942-6-28',
+    'Katharina',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bosch',
+    'Straße der Pariser Kommune 23',
+    'Dortmund',
+    '69.3',
+    '44229',
+    '1988-3-21',
+    'Ulrike',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baumgaertner',
+    'Albrechtstrasse 41',
+    'Stadtbergen',
+    '77.9',
+    '86382',
+    '1985-2-22',
+    'Mike',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Saenger',
+    'Eschenweg 22',
+    'Sonneberg',
+    '60.8',
+    '96504',
+    '1942-6-15',
+    'Benjamin',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herman',
+    'Messedamm 73',
+    'Coswig',
+    '89.1',
+    '01632',
+    '1942-2-11',
+    'Janina',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koertig',
+    'Schmarjestrasse 35',
+    'Chamerau',
+    '78.6',
+    '93465',
+    '1999-3-11',
+    'Markus',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fuchs',
+    'Mühlenstrasse 66',
+    'Regensburg',
+    '79.9',
+    '93006',
+    '1975-5-4',
+    'Stefan',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Himmel',
+    'Spresstrasse 44',
+    'Loxstedt',
+    '98.2',
+    '27612',
+    '1986-11-15',
+    'Philipp',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schneider',
+    'Schaarsteinweg 56',
+    'Bodenwöhr',
+    '104.4',
+    '92439',
+    '1969-1-20',
+    'Martin',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Konig',
+    'Mellingburgredder 75',
+    'Poxdorf',
+    '77.7',
+    '91099',
+    '1945-11-3',
+    'Kerstin',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lehrer',
+    'Alter Wall 25',
+    'Gössenheim',
+    '95.2',
+    '97780',
+    '1994-12-20',
+    'Eric',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Durr',
+    'Holstenwall 59',
+    'Beesenstedt',
+    '66.4',
+    '06198',
+    '1979-2-12',
+    'Johanna',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theiss',
+    'Brandenburgische Straße 54',
+    'Berlin Hohenschönhausen',
+    '62.6',
+    '13057',
+    '1955-1-17',
+    'Alexander',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baecker',
+    'Wallstrasse 82',
+    'Kirchwald',
+    '110.1',
+    '56729',
+    '1978-7-24',
+    'Lucas',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Bayer',
+    'Lange Strasse 22',
+    'Lindwedel',
+    '87.7',
+    '29690',
+    '1986-2-11',
+    'Benjamin',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Nagel',
+    'Rudower Strasse 32',
+    'Merlscheid',
+    '81.0',
+    '54597',
+    '1941-9-9',
+    'Stephan',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Jaeger',
+    'Esplanade 56',
+    'Lappersdorf',
+    '105.9',
+    '93134',
+    '1947-7-20',
+    'Torsten',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schultheiss',
+    'Brandenburgische Str 16',
+    'Sankt Goar',
+    '96.3',
+    '56329',
+    '1969-11-9',
+    'Nicole',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Moench',
+    'Luetzowplatz 9',
+    'Kaschenbach',
+    '97.6',
+    '54668',
+    '1976-12-5',
+    'Jessica',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Ebersbacher',
+    'Inge Beisheim Platz 34',
+    'Seestermühe',
+    '67.9',
+    '25371',
+    '1981-5-12',
+    'Monika',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Wannemaker',
+    'Neue Roßstr. 71',
+    'Esslingen Sulzgries',
+    '64.1',
+    '73733',
+    '1970-1-25',
+    'Leon',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Frueh',
+    'Hardenbergstraße 75',
+    'Haschbach am Remigiusberg',
+    '59.2',
+    '66871',
+    '1995-8-18',
+    'Claudia',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Adler',
+    'Knesebeckstraße 64',
+    'Düren',
+    '77.3',
+    '52355',
+    '1937-1-4',
+    'Frank',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baumgaertner',
+    'Ufnau Strasse 38',
+    'Kaufbeuren',
+    '84.1',
+    '87584',
+    '1994-7-4',
+    'Felix',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schmid',
+    'Hochstrasse 31',
+    'Bredstedt',
+    '53.4',
+    '25818',
+    '1995-10-9',
+    'Andrea',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Werner',
+    'Charlottenstrasse 50',
+    'Dresden',
+    '65.9',
+    '01263',
+    '1968-3-26',
+    'Kerstin',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schroeder',
+    'Gotzkowskystraße 4',
+    'Warstein',
+    '84.7',
+    '59581',
+    '1945-3-9',
+    'Phillipp',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Werfel',
+    'Unter den Linden 67',
+    'Magdeburg',
+    '92.7',
+    '39040',
+    '1990-7-6',
+    'Frank',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fleischer',
+    'Scharnweberstrasse 22',
+    'Mannheim Schönau',
+    '91.1',
+    '68305',
+    '1994-2-4',
+    'Claudia',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schuster',
+    'Ziegelstr. 30',
+    'Bad Birnbach',
+    '103.5',
+    '84361',
+    '1975-1-23',
+    'Doreen',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theiss',
+    'Augsburger Straße 88',
+    'Werne',
+    '69.4',
+    '59368',
+    '1958-7-25',
+    'Lukas',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Moeller',
+    'Invalidenstrasse 34',
+    'Kallstadt',
+    '57.1',
+    '67169',
+    '1939-6-6',
+    'Doreen',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baumgartner',
+    'Inge Beisheim Platz 62',
+    'Hollern-Twielenfleth',
+    '67.9',
+    '21723',
+    '1956-1-14',
+    'Sabrina',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Berg',
+    'Kirchenallee 6',
+    'Lindberg',
+    '101.8',
+    '94227',
+    '1989-10-21',
+    'René',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Seiler',
+    'Knesebeckstrasse 78',
+    'Ersfeld',
+    '107.9',
+    '57635',
+    '1991-9-29',
+    'Dieter',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Koch',
+    'Ellmenreichstrasse 85',
+    'Creußen',
+    '62.3',
+    '95473',
+    '1990-9-22',
+    'Christina',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Urner',
+    'Schmarjestrasse 39',
+    'Bergholz',
+    '70.4',
+    '17321',
+    '1978-3-21',
+    'Uwe',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koch',
+    'Fontenay 41',
+    'Wilhelmsthal',
+    '80.4',
+    '96352',
+    '1938-2-1',
+    'Marko',
+    '178',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kohler',
+    'Rankestraße 10',
+    'Neuburg',
+    '94.9',
+    '86618',
+    '1964-7-22',
+    'Marko',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Braun',
+    'Hochstrasse 85',
+    'Bramstedtlund',
+    '92.8',
+    '25926',
+    '1992-11-30',
+    'Karin',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schmidt',
+    'Landhausstraße 8',
+    'Königs Wusterhausen',
+    '95.9',
+    '15703',
+    '1964-1-1',
+    'Sara',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kunze',
+    'Gruenauer Strasse 18',
+    'Dollern',
+    '107.9',
+    '21739',
+    '1998-2-6',
+    'Max',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Dresner',
+    'Schoenebergerstrasse 30',
+    'Weischlitz',
+    '74.9',
+    '08536',
+    '1957-1-14',
+    'David',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Theiss',
+    'Budapester Strasse 56',
+    'Sandstedt',
+    '93.1',
+    '27628',
+    '2001-5-31',
+    'Klaudia',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Shuster',
+    'Karl-Liebknecht-Strasse 6',
+    'Welle',
+    '80.6',
+    '21261',
+    '1982-9-5',
+    'Sarah',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Decker',
+    'Storkower Strasse 99',
+    'Wierschem',
+    '103.2',
+    '56294',
+    '1945-9-26',
+    'Sara',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Hoover',
+    'Alt-Moabit 38',
+    'Luckenwalde',
+    '73.6',
+    '14931',
+    '1937-3-5',
+    'Julia',
+    '156',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Vogt',
+    'Schönwalder Allee 52',
+    'Tetenhusen',
+    '103.5',
+    '24817',
+    '1990-10-27',
+    'Katja',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gerber',
+    'Heiligengeistbrücke 98',
+    'Bad Windsheim',
+    '81.7',
+    '91428',
+    '1948-11-21',
+    'Heike',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Vogt',
+    'Kirchenallee 65',
+    'Bernried',
+    '77.2',
+    '94505',
+    '1970-1-16',
+    'Markus',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koch',
+    'Anhalter Strasse 34',
+    'Becherbach',
+    '109.5',
+    '67827',
+    '1987-11-25',
+    'Robert',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kuster',
+    'Guentzelstrasse 85',
+    'Haunetal',
+    '64.8',
+    '36166',
+    '1965-10-9',
+    'Anke',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Aachen',
+    'Budapester Straße 5',
+    'Longen',
+    '101.5',
+    '54338',
+    '1995-3-23',
+    'Ralph',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Propst',
+    'Rathausstrasse 16',
+    'Nürnberg',
+    '51.9',
+    '90041',
+    '1941-8-13',
+    'Kristin',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frey',
+    'Rohrdamm 59',
+    'Bad Salzuflen Wüsten',
+    '75.0',
+    '32108',
+    '1991-8-22',
+    'Kevin',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Dreher',
+    'Wallstrasse 61',
+    'Vettelschoß',
+    '70.1',
+    '53560',
+    '1983-12-14',
+    'Heike',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lehmann',
+    'Scharnweberstrasse 6',
+    'Schwalbach am Taunus',
+    '77.0',
+    '65824',
+    '1940-9-9',
+    'Dennis',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Freytag',
+    'Rhinstrasse 59',
+    'München',
+    '69.6',
+    '80797',
+    '1954-3-24',
+    'Stefan',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Hueber',
+    'Koepenicker Str. 27',
+    'Lierschied',
+    '93.6',
+    '56357',
+    '1957-7-16',
+    'Torsten',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Rothstein',
+    'Frankfurter Allee 83',
+    'Karlsruhe Weststadt',
+    '54.4',
+    '76185',
+    '1975-10-5',
+    'Kristin',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Achen',
+    'Koepenicker Str. 17',
+    'Strüth',
+    '108.7',
+    '56357',
+    '1995-8-22',
+    'Lukas',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koertig',
+    'Lietzenburger Strasse 22',
+    'Bergisch Gladbach Romaney',
+    '73.4',
+    '51467',
+    '1956-4-23',
+    'David',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Unger',
+    'Prager Str 48',
+    'Gauting',
+    '53.8',
+    '82119',
+    '1973-12-1',
+    'Martina',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Nussbaum',
+    'Scharnweberstrasse 69',
+    'Mannheim Lindenhof',
+    '96.8',
+    '68163',
+    '1951-9-11',
+    'Manuela',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Amsel',
+    'Rhinstrasse 80',
+    'München',
+    '68.2',
+    '80939',
+    '1994-7-5',
+    'Klaudia',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herzog',
+    'An der Alster 99',
+    'Krakow',
+    '64.3',
+    '18290',
+    '1959-11-24',
+    'Gabriele',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eisenhower',
+    'Prager Str 21',
+    'Starnberg',
+    '115.3',
+    '82303',
+    '1983-6-21',
+    'Marco',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Friedman',
+    'Paderborner Strasse 30',
+    'Unterdießen',
+    '76.6',
+    '86944',
+    '1981-11-30',
+    'Ulrike',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Pfeifer',
+    'Nuernbergerstrasse 42',
+    'Bad Zwischenahn',
+    '67.7',
+    '26160',
+    '2002-11-22',
+    'Klaudia',
+    '155',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gottschalk',
+    'Guentzelstrasse 32',
+    'Braunweiler',
+    '65.2',
+    '55595',
+    '1975-3-9',
+    'Melanie',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Sommer',
+    'Hallesches Ufer 46',
+    'Gäufelden',
+    '71.7',
+    '71126',
+    '1975-8-29',
+    'Martin',
+    '187',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Dresdner',
+    'Rankestraße 61',
+    'Baar-Ebenhausen',
+    '57.9',
+    '85107',
+    '2001-2-16',
+    'Eric',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Durr',
+    'Meinekestraße 84',
+    'Rieste',
+    '84.2',
+    '49597',
+    '1992-5-7',
+    'Nicole',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Friedman',
+    'An Der Urania 16',
+    'Bekdorf',
+    '71.3',
+    '25554',
+    '2000-12-28',
+    'Brigitte',
+    '159',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Boehm',
+    'Karl-Liebknecht-Strasse 26',
+    'Handeloh',
+    '103.8',
+    '21256',
+    '1969-6-18',
+    'Stefan',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Eichelberger',
+    'Inge Beisheim Platz 54',
+    'Barnstedt',
+    '109.7',
+    '21406',
+    '1960-8-18',
+    'Lukas',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Furst',
+    'Bleibtreustraße 43',
+    'Mühlhausen',
+    '52.7',
+    '99961',
+    '2003-1-22',
+    'Tanja',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gersten',
+    'Guentzelstrasse 27',
+    'Braunweiler',
+    '78.7',
+    '55595',
+    '1947-4-8',
+    'Jürgen',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Scherer',
+    'Heinrich Heine Platz 22',
+    'Waltershausen',
+    '97.6',
+    '99874',
+    '1952-11-4',
+    'Annett',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schmid',
+    'Michaelkirchstr. 68',
+    'Warmsen',
+    '83.6',
+    '31606',
+    '1997-11-21',
+    'Leah',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Kortig',
+    'Mellingburgredder 55',
+    'Eckental',
+    '93.3',
+    '90542',
+    '1973-10-31',
+    'Kristin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Beike',
+    'Luckenwalder Strasse 13',
+    'Celle',
+    '87.1',
+    '29221',
+    '1952-1-3',
+    'Stefan',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Abt',
+    'Luebecker Strasse 81',
+    'Scheßlitz',
+    '90.8',
+    '96110',
+    '1991-2-26',
+    'Tom',
+    '186',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Blau',
+    'Lietzenburger Straße 62',
+    'Handrup',
+    '66.7',
+    '49838',
+    '1948-5-20',
+    'Ute',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bieber',
+    'Bissingzeile 92',
+    'Kutenholz',
+    '96.6',
+    '27449',
+    '1982-11-27',
+    'Anja',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Beckenbauer',
+    'Scharnweberstrasse 36',
+    'Kriftel',
+    '71.6',
+    '65830',
+    '1969-5-14',
+    'Leah',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Mayer',
+    'Rhinstrasse 61',
+    'München',
+    '73.7',
+    '80910',
+    '2003-4-1',
+    'Lucas',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Papst',
+    'Budapester Strasse 87',
+    'Krogaspe',
+    '73.1',
+    '24644',
+    '1944-4-12',
+    'Ralph',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gerste',
+    'Rudower Strasse 88',
+    'Lauperath',
+    '104.2',
+    '54649',
+    '1942-10-12',
+    'Monika',
+    '151',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Fenstermacher',
+    'Waldowstr. 69',
+    'Schöntal',
+    '92.6',
+    '74214',
+    '1942-8-23',
+    'Stephan',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frankfurter',
+    'Potsdamer Platz 14',
+    'Wasserburg',
+    '91.5',
+    '83501',
+    '1978-3-12',
+    'Martin',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Krause',
+    'Mühlenstrasse 77',
+    'Regensburg',
+    '98.4',
+    '93001',
+    '1970-3-24',
+    'Daniel',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mehler',
+    'Mühlenstrasse 56',
+    'Regensburg',
+    '54.7',
+    '93003',
+    '2003-6-5',
+    'Sabine',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Propst',
+    'Karl-Liebknecht-Strasse 81',
+    'Bark',
+    '99.0',
+    '23826',
+    '1990-8-30',
+    'Daniela',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gerber',
+    'Stuttgarter Platz 83',
+    'Niederelbert',
+    '94.9',
+    '56412',
+    '1948-8-14',
+    'Peter',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Werfel',
+    'Knesebeckstrasse 39',
+    'Kaltenborn',
+    '79.5',
+    '53520',
+    '1959-1-2',
+    'Dominik',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Lang',
+    'Knesebeckstrasse 90',
+    'Stebach',
+    '77.0',
+    '56276',
+    '1942-2-17',
+    'Anja',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Bürger',
+    'Budapester Strasse 24',
+    'Bornhöved',
+    '67.4',
+    '24617',
+    '1975-8-10',
+    'Kristian',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Feierabend',
+    'Koenigstrasse 94',
+    'Neudietendorf',
+    '111.4',
+    '99191',
+    '1994-3-18',
+    'Benjamin',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Klug',
+    'Grosse Praesidenten Str. 73',
+    'Schwarzach',
+    '61.5',
+    '74869',
+    '2000-2-15',
+    'Michael',
+    '175',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Koertig',
+    'Alt-Moabit 10',
+    'Brandenburg',
+    '93.7',
+    '14770',
+    '1962-9-22',
+    'Andrea',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Glockner',
+    'Storkower Strasse 59',
+    'Neuwied Block',
+    '86.9',
+    '56566',
+    '1957-10-21',
+    'Benjamin',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Grunwald',
+    'Koepenicker Str. 79',
+    'Hettenrodt',
+    '76.1',
+    '55758',
+    '1962-8-7',
+    'Jens',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Mahler',
+    'Waldowstr. 13',
+    'Dörzbach',
+    '107.3',
+    '74677',
+    '1995-4-29',
+    'Ralph',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Waechter',
+    'Fontenay 36',
+    'Kronach',
+    '87.1',
+    '96302',
+    '1959-12-27',
+    'Niklas',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Engel',
+    'Schoenebergerstrasse 91',
+    'Neuenkirchen',
+    '80.2',
+    '49586',
+    '1956-11-8',
+    'Janina',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Klein',
+    'Rhinstrasse 76',
+    'München',
+    '70.9',
+    '80939',
+    '1983-9-8',
+    'Sabine',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Herzog',
+    'Gotzkowskystrasse 75',
+    'Wahlrod',
+    '87.7',
+    '57614',
+    '1940-12-18',
+    'Stephan',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Eichel',
+    'Kieler Strasse 50',
+    'Burgkirchen',
+    '100.1',
+    '84504',
+    '1957-5-18',
+    'Tanja',
+    '152',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Unger',
+    'Adenauerallee 15',
+    'Buchholz',
+    '83.0',
+    '31710',
+    '1969-4-29',
+    'Tobias',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Abt',
+    'Paul-Nevermann-Platz 38',
+    'Aura',
+    '62.6',
+    '97773',
+    '1985-9-9',
+    'Ulrike',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Herz',
+    'Inge Beisheim Platz 20',
+    'Hittbergen',
+    '85.8',
+    '21522',
+    '1942-12-16',
+    'Marko',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schröder',
+    'Alt Reinickendorf 82',
+    'Altenmünster',
+    '69.2',
+    '86448',
+    '1993-12-16',
+    'Markus',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Sankt',
+    'Luebecker Strasse 60',
+    'Ebensfeld',
+    '110.3',
+    '96250',
+    '1984-10-9',
+    'Phillipp',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Engel',
+    'Sonnenallee 90',
+    'Augsburg',
+    '50.3',
+    '86029',
+    '1999-6-14',
+    'Klaudia',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Lange',
+    'Lietzenburger Strasse 16',
+    'Euskirchen',
+    '92.0',
+    '53879',
+    '1948-11-23',
+    'Jessika',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Nussbaum',
+    'Ellmenreichstrasse 41',
+    'Rugendorf',
+    '113.6',
+    '95365',
+    '1979-7-10',
+    'Jens',
+    '182',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Hartmann',
+    'Hollander Strasse 91',
+    'Stadtallendorf',
+    '79.9',
+    '35260',
+    '1939-4-5',
+    'Ralf',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bergmann',
+    'Rankestraße 15',
+    'Pörnbach',
+    '60.2',
+    '85309',
+    '1952-12-19',
+    'Sandra',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Herrmann',
+    'Hans-Grade-Allee 30',
+    'Ratzeburg',
+    '56.8',
+    '23903',
+    '1976-3-12',
+    'Stephanie',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Moeller',
+    'Luebecker Strasse 86',
+    'Haßfurt',
+    '87.7',
+    '97432',
+    '1948-5-8',
+    'Brigitte',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Thalberg',
+    'Knesebeckstrasse 45',
+    'Stürzelbach',
+    '100.6',
+    '57614',
+    '1996-5-23',
+    'Nicole',
+    '171',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Köhler',
+    'Kirchenallee 35',
+    'Deggendorf',
+    '87.1',
+    '94454',
+    '1940-5-8',
+    'Lukas',
+    '173',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kaufmann',
+    'Frankfurter Allee 43',
+    'Freiburg Kappel',
+    '64.9',
+    '79117',
+    '2000-9-5',
+    'Markus',
+    '180',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Baader',
+    'Luebecker Strasse 71',
+    'Haßfurt',
+    '66.7',
+    '97437',
+    '1997-6-16',
+    'Marco',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schröder',
+    'Mellingburgredder 25',
+    'Pleinfeld',
+    '54.7',
+    '91783',
+    '1965-8-29',
+    'Angelika',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schweitzer',
+    'Budapester Strasse 87',
+    'Arpsdorf',
+    '71.2',
+    '24634',
+    '1983-5-2',
+    'Christin',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Mauer',
+    'Boxhagener Str. 1',
+    'Hamburg Borgfelde',
+    '90.0',
+    '20535',
+    '1984-6-2',
+    'Mario',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Bauer',
+    'Michaelkirchstr. 11',
+    'Uchte',
+    '95.9',
+    '31600',
+    '1972-1-14',
+    'Klaudia',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Abt',
+    'Meininger Strasse 93',
+    'Schwollen',
+    '64.0',
+    '55767',
+    '1949-3-30',
+    'Dirk',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Junker',
+    'Luebeckertordamm 70',
+    'Burgthann',
+    '63.5',
+    '90559',
+    '1961-5-5',
+    'Maximilian',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Pfeiffer',
+    'Kantstraße 23',
+    'Burkhardtsdorf',
+    '110.9',
+    '09235',
+    '1992-10-21',
+    'Phillipp',
+    '177',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theiss',
+    'Heinrich Heine Platz 66',
+    'Gotha',
+    '70.6',
+    '99854',
+    '1950-8-13',
+    'Stefan',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Weber',
+    'Storkower Strasse 83',
+    'Quirnbach',
+    '73.4',
+    '56242',
+    '1997-6-16',
+    'Andrea',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Baader',
+    'Bissingzeile 43',
+    'Kirchwistedt',
+    '86.6',
+    '27616',
+    '1954-3-21',
+    'Brigitte',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schiffer',
+    'Lietzenburger Straße 3',
+    'Tülau',
+    '54.6',
+    '38474',
+    '1967-2-22',
+    'Silke',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Gerste',
+    'Kantstrasse 49',
+    'Nürnberg',
+    '104.4',
+    '90255',
+    '1994-7-22',
+    'Dennis',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Adler',
+    'Waßmannsdorfer Chaussee 19',
+    'Hamburg Barmbek-Süd',
+    '106.4',
+    '22305',
+    '1995-4-9',
+    'Klaus',
+    '174',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fuerst',
+    'Frankfurter Allee 86',
+    'Karlsruhe Wolfartsweier',
+    '81.5',
+    '76228',
+    '1937-7-15',
+    'Ute',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schwarz',
+    'Holstenwall 45',
+    'Bageritz',
+    '77.5',
+    '06188',
+    '1953-2-17',
+    'Sophie',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Naumann',
+    'Amsinckstrasse 39',
+    'Königsbrück',
+    '98.3',
+    '01934',
+    '1945-7-9',
+    'Benjamin',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kohl',
+    'Schönwalder Allee 70',
+    'Lütjenburg',
+    '96.5',
+    '24319',
+    '2002-4-1',
+    'David',
+    '181',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Sommer',
+    'Schaarsteinweg 92',
+    'Mötzing',
+    '63.2',
+    '93099',
+    '1997-7-6',
+    'Sara',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Eichel',
+    'Lange Strasse 57',
+    'Unterschleißheim',
+    '69.8',
+    '85705',
+    '1965-1-22',
+    'Sarah',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Koch',
+    'Hedemannstasse 72',
+    'Owingen',
+    '77.6',
+    '88696',
+    '1956-4-1',
+    'Peter',
+    '185',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Ebersbacher',
+    'Rosenstrasse 54',
+    'München',
+    '65.4',
+    '81337',
+    '1960-8-11',
+    'Eric',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Müller',
+    'Gotzkowskystrasse 99',
+    'Westernohe',
+    '76.8',
+    '56479',
+    '1937-5-1',
+    'Lucas',
+    '179',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Gärtner',
+    'Park Str. 41',
+    'Düsseldorf Pempelfort',
+    '72.0',
+    '40476',
+    '1988-4-29',
+    'Juliane',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmer',
+    'Kirchenallee 40',
+    'Zwiesel',
+    '87.6',
+    '94221',
+    '1948-4-9',
+    'Benjamin',
+    '176',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Scherer',
+    'Heinrich Heine Platz 85',
+    'Bischofswerda',
+    '98.0',
+    '01871',
+    '2001-2-27',
+    'Tom',
+    '189',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Traugott',
+    'Potsdamer Platz 74',
+    'Oberstaufen',
+    '66.4',
+    '87528',
+    '1974-9-10',
+    'Kathrin',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Dresner',
+    'Lietzenburger Straße 90',
+    'Unterlüß',
+    '102.9',
+    '29345',
+    '1971-12-5',
+    'Ulrike',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fassbinder',
+    'Stresemannstr. 59',
+    'Ottweiler',
+    '62.6',
+    '66564',
+    '2000-11-3',
+    'Kerstin',
+    '158',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Papst',
+    'Landhausstraße 82',
+    'Eberswalde',
+    '79.9',
+    '16206',
+    '1985-8-24',
+    'Anne',
+    '163',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Frei',
+    'Budapester Straße 61',
+    'Lohra',
+    '80.4',
+    '35102',
+    '1987-5-8',
+    'Sven',
+    '188',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Kirsch',
+    'Leipziger Straße 49',
+    'Söhrewald',
+    '63.2',
+    '34320',
+    '2002-10-6',
+    'Niklas',
+    '189',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Sankt',
+    'Lietzenburger Strasse 19',
+    'Bergisch Gladbach Kaule',
+    '70.6',
+    '51429',
+    '1978-5-27',
+    'Jennifer',
+    '168',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Traugott',
+    'Pappelallee 37',
+    'Jöhstadt',
+    '90.5',
+    '09475',
+    '1951-4-20',
+    'Susanne',
+    '153',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Klug',
+    'Langenhorner Chaussee 11',
+    'Altötting',
+    '88.4',
+    '84498',
+    '1940-12-15',
+    'Sophia',
+    '170',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Keller',
+    'Stresemannstr. 42',
+    'Wadgassen',
+    '72.8',
+    '66784',
+    '1942-1-8',
+    'Sabine',
+    '165',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Furst',
+    'Grolmanstraße 86',
+    'Bremen Barkhof',
+    '90.3',
+    '28209',
+    '1993-8-2',
+    'Manuela',
+    '154',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lang',
+    'Brandenburgische Straße 91',
+    'Berlin Kreuzberg',
+    '107.5',
+    '10999',
+    '1999-1-10',
+    'Eric',
+    '169',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Mauer',
+    'Eichendorffstr. 98',
+    'Wolpertswende',
+    '75.1',
+    '88284',
+    '1951-4-23',
+    'Manuela',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Fried',
+    'Borstelmannsweg 94',
+    'Schnaittenbach',
+    '75.9',
+    '92250',
+    '1968-10-10',
+    'Jessika',
+    '160',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Abendroth',
+    'Ansbacher Strasse 42',
+    'Jucken',
+    '70.7',
+    '54689',
+    '1946-12-6',
+    'Uwe',
+    '164',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schweizer',
+    'Messedamm 15',
+    'Dresden',
+    '105.6',
+    '01075',
+    '1952-1-5',
+    'Maximilian',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Zimmermann',
+    'Fontenay 71',
+    'Helmbrechts',
+    '101.2',
+    '95224',
+    '1945-6-21',
+    'Steffen',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Holtzmann',
+    'Oldesloer Strasse 74',
+    'Lichte',
+    '68.0',
+    '98736',
+    '1969-5-30',
+    'Luca',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Pfeffer',
+    'Mellingburgredder 18',
+    'Weißenburg',
+    '109.1',
+    '91774',
+    '2000-3-31',
+    'Daniel',
+    '184',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Lehmann',
+    'Feldstrasse 88',
+    'Arendsee',
+    '72.5',
+    '39616',
+    '1952-1-9',
+    'Paul',
+    '183',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Unger',
+    'Schillerstrasse 66',
+    'Wolfratshausen',
+    '62.8',
+    '82502',
+    '1942-7-21',
+    'Marcel',
+    '172',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Krüger',
+    'Kirchenallee 97',
+    'Plattling',
+    '76.6',
+    '94447',
+    '1998-6-26',
+    'Antje',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Saenger',
+    'Esplanade 95',
+    'Regenstauf',
+    '84.1',
+    '93122',
+    '1945-11-9',
+    'Marco',
+    '162',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Eisenhower',
+    'Landsberger Allee 67',
+    'München',
+    '101.6',
+    '80083',
+    '1986-2-9',
+    'Daniela',
+    '166',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'f',
+    'Schwarz',
+    'Park Str. 62',
+    'Solingen Solingen-Mitte',
+    '60.2',
+    '42653',
+    '1948-9-18',
+    'Vanessa',
+    '161',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Theiss',
+    'Knesebeckstrasse 61',
+    'Mudenbach',
+    '84.4',
+    '57614',
+    '1976-10-3',
+    'Steffen',
+    '167',
+    'DE02100500000054540402'
+  );
+INSERT INTO mitglieder (
+    Geschlecht,
+    Nachname,
+    Strasse,
+    Stadt,
+    Gewicht,
+    Postleitzahl,
+    Geburtsdatum,
+    Vorname,
+    Groesse,
+    IBAN
+  )
+VALUES(
+    'm',
+    'Schultz',
+    'Kantstrasse 62',
+    'Nürnberg',
+    '97.9',
+    '90471',
+    '1969-11-1',
+    'Mario',
+    '178',
+    'DE02100500000054540402'
+  );

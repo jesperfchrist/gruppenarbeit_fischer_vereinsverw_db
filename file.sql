@@ -4,89 +4,97 @@ CREATE DATABASE IF NOT EXISTS beehive;
 USE beehive;
 -- Die Mitgliedertabelle erstmal ohne Foreign Keys
 CREATE TABLE IF NOT EXISTS mitglieder (
-  Mietgliedsnummer TINYINT PRIMARY KEY auto_increment,
-  Vorname char(20) NOT NULL,
-  Nachname char(20) NOT NULL,
-  Strasse char(20) NOT NULL,
-  Hausnummer char(4) NOT NULL,
-  PLZ char(5) NOT NULL,
-  Geschlecht char(1) NOT NULL,
-  Gewicht int,
-  Groesse int,
+  Mitgliedsnummer INT PRIMARY KEY auto_increment,
+  Vorname varchar(20) NOT NULL,
+  Nachname varchar(23) NOT NULL,
+  Strasse varchar(100) NOT NULL,
+  Stadt varchar(100) NOT NULL,
+  Postleitzahl varchar(5) NOT NULL,
+  Geschlecht varchar(1) NOT NULL,
+  Gewicht FLOAT,
+  Groesse INT,
   Geburtsdatum DATE NOT NULL,
-  IBAN int,
-  Beitrittsdatum DATE NOT NULL
+  IBAN varchar(34) NOT NULL,
+  Beitrittsdatum DATE
 );
 -- MITARBEITER
 CREATE TABLE IF NOT EXISTS mitarbeiter (
   Anfangsdatum DATE NOT NULL,
-  Stundenlohn int NOT NULL,
-  Steuerklasse int NOT NULL,
-  Rolle char(12) NOT NULL,
-  Mietgliedsnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder(Mietgliedsnummer)
+  Stundenlohn FLOAT NOT NULL,
+  Steuerklasse INT NOT NULL,
+  Rolle varchar(50) NOT NULL, 
+  Mitgliedsnummer INT,
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder(Mitgliedsnummer)
 );
 -- SPORTARTEN
 CREATE TABLE IF NOT EXISTS sportarten (
-  Sportartnummer TINYINT PRIMARY KEY auto_increment,
-  SportartName char(20),
-  Equipment char(50)
+  Sportartnummer INT PRIMARY KEY auto_increment,
+  SportartName varchar(20) UNIQUE,
+  Equipment varchar(50)
 );
 -- SPIELFELDER
 CREATE TABLE IF NOT EXISTS spielfelder (
-  Spielfeldnummer TINYINT PRIMARY KEY auto_increment,
-  Untergrund char(12),
-  Markierungen char(12),
-  Netz char(12),
-  Laenge int,
-  Breite int,
-  Ort char(30)
+  Spielfeldnummer INT PRIMARY KEY auto_increment,
+  Untergrund varchar(50),
+  Markierungen varchar(50),
+  Netz varchar(30),
+  Laenge INT,
+  Breite INT,
+  Ort varchar(30)
 );
 -- TEAMS
 CREATE TABLE IF NOT EXISTS teams (
-  Teamnummer TINYINT PRIMARY KEY auto_increment,
-  Bedingungen char(20),
-  Altersklasse int,
-  Groesse int
+  Teamnummer INT PRIMARY KEY auto_increment,
+  Bedingungen varchar(20),
+  Altersklasse INT,
+  Groesse INT
 );
 -- Beziehung: mitglieder spielen in teams
 CREATE TABLE IF NOT EXISTS mitglieder_spielen_in (
-  Teamnummer TINYINT,
-  Mietgliedsnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+  Teamnummer INT,
+  Mitgliedsnummer INT,
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
 );
 -- Beziehung: teams spielen sportarten
 CREATE TABLE IF NOT EXISTS teams_spielen (
-  Sportartnummer TINYINT,
-  Teamnummer TINYINT,
+  Sportartnummer INT,
+  Teamnummer INT,
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Teamnummer) REFERENCES teams (Teamnummer)
 );
 -- Beziehung: sportarten benuetigen spielfelder
 CREATE TABLE IF NOT EXISTS sportarten_benoetigen (
-  Sportartnummer TINYINT,
-  Spielfeldnummer TINYINT,
+  Sportartnummer INT,
+  Spielfeldnummer INT,
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer),
   FOREIGN KEY (Spielfeldnummer) REFERENCES spielfelder (Spielfeldnummer)
 );
--- Beziehung:  mitglieder kuennen sportarten
-CREATE TABLE IF NOT EXISTS mitglieder_kuennen_sportarten (
-  Mietgliedsnummer TINYINT,
-  Sportartnummer TINYINT,
-  FOREIGN KEY (Mietgliedsnummer) REFERENCES mitglieder (Mietgliedsnummer),
+-- Beziehung:  mitglieder koennen sportarten
+CREATE TABLE IF NOT EXISTS mitglieder_koennen_sportarten (
+  Mitgliedsnummer INT,
+  Sportartnummer INT,
+  FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
 );
--- insert values
+-- Sportarten hinzufügen
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Handball', 'Handballfeld');
+VALUES ('Handball', '');
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Tennis', 'Tennisfeld');
+VALUES ('Tennis', '');
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Basketball', 'Basketballfeld');
+VALUES ('Basketball', '');
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Volleyball', 'Volleyballfeld');
+VALUES ('Volleyball', '');
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Badminton', 'Badmintonfeld');
+VALUES ('Badminton', '');
 INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Darts', 'Dartsscheiben');
+VALUES ('Darts', '');
+INSERT INTO sportarten (SportartName, Equipment)
+VALUES ('Yoga', '');
+INSERT INTO sportarten (SportartName, Equipment)
+VALUES ('Zumba', '');
+INSERT INTO sportarten (SportartName, Equipment)
+VALUES ('Aquagymnastik', '');
+
+-- Mitglieder hinzufügen

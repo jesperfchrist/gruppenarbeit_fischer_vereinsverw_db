@@ -1,3 +1,0 @@
-UPDATE spielfelder
-SET Markierungen = 'Darts'
-WHERE Breite = 40;

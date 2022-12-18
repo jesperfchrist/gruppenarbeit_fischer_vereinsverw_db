@@ -76,4 +76,4 @@ CREATE TABLE IF NOT EXISTS mitglieder_koennen_sportarten (
   Sportartnummer INT,
   FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
-);
+) ADD CONSTRAINT keine_sportart_doppelt_pro_mitglied UNIQUE (Mitgliedsnummer, Sportartnummer);

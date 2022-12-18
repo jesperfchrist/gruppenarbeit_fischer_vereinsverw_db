@@ -175,142 +175,207 @@ SELECT *
 FROM Mieter
 WHERE PLZ REGEXP '^[12]';
 -- 19.
-SELECT count('FHaus') 
+SELECT count('FHaus')
 FROM Haus;
 -- 20.
-SELECT count('FHaus') 
-FROM Haus WHERE 'AnzZimmer'= 4;
+SELECT count('FHaus')
+FROM Haus
+WHERE 'AnzZimmer' = 4;
 -- 21.
-SELECT sum('Betrag') 
+SELECT sum('Betrag')
 FROM Vermietung;
 -- 22.
-SELECT avg('Betrag') 
+SELECT avg('Betrag')
 FROM Vermietung;
 -- 23.
-SELECT min('Betrag') AS "kleinster Betrag", max('Betrag') AS "groesster Betrag" 
+SELECT min('Betrag') AS "kleinster Betrag",
+  max('Betrag') AS "groesster Betrag"
 FROM Vermietung;
 -- 24.
 SELECT avg('Flaeche')
 FROM Haus
 GROUP BY 'AnzZimmer';
 -- 25.
-SELECT MieterNr, count('VNr')
+SELECT MieterNr,
+  count('VNr')
 FROM Vermietung
 GROUP BY 'MieterNr';
 -- 26.
-SELECT Mieter.Name AS Name, sum(Vermietung.Betrag) 
-FROM Vermietung, Mieter 
+SELECT Mieter.Name AS Name,
+  sum(Vermietung.Betrag)
+FROM Vermietung,
+  Mieter
 WHERE Mieter.MieterNr = Vermietung.MieterNr
-GROUP BY Mieter.Name, Vermietung.FHaus;
+GROUP BY Mieter.Name,
+  Vermietung.FHaus;
 -- 27.
-SELECT v.MieterNr, v.Summe
-FROM (SELECT MieterNr, sum(Betrag) AS Summe, count(*) AS anzahl
-		FROM Vermietung
-		GROUP BY MieterNr) AS v
+SELECT v.MieterNr,
+  v.Summe
+FROM (
+    SELECT MieterNr,
+      sum(Betrag) AS Summe,
+      count(*) AS anzahl
+    FROM Vermietung
+    GROUP BY MieterNr
+  ) AS v
 WHERE v.anzahl > 1;
 -- 28.
-SELECT Preise.Kategorie , Haus.Flaeche, Haus.FHaus, Preise.Wochenpreis, Preise.Tagespreis
-FROM Haus, Preise
-WHERE Haus.Flaeche >=50
-AND Preise.Kategorie = "Luxus"
-AND Haus.Preisschl = Preise.Preisschl;
+SELECT Preise.Kategorie,
+  Haus.Flaeche,
+  Haus.FHaus,
+  Preise.Wochenpreis,
+  Preise.Tagespreis
+FROM Haus,
+  Preise
+WHERE Haus.Flaeche >= 50
+  AND Preise.Kategorie = "Luxus"
+  AND Haus.Preisschl = Preise.Preisschl;
 -- 29.
-SELECT a.'Ort',b.'FHaus', b.'Preisschl'
-FROM Preise a, Haus b
-WHERE a.'Ort' = "Hinterthal" AND b.'Preisschl' BETWEEN 1 AND 3
+SELECT a.'Ort',
+  b.'FHaus',
+  b.'Preisschl'
+FROM Preise a,
+  Haus b
+WHERE a.'Ort' = "Hinterthal"
+  AND b.'Preisschl' BETWEEN 1 AND 3
 GROUP BY b.'FHaus';
 -- 30.
 SELECT Vermietung.*
-FROM Vermietung 
-JOIN Haus ON Vermietung.FHaus = Haus.FHaus
-JOIN Preise ON Haus.Preisschl = Preise.Preisschl
+FROM Vermietung
+  JOIN Haus ON Vermietung.FHaus = Haus.FHaus
+  JOIN Preise ON Haus.Preisschl = Preise.Preisschl
 WHERE Vermietung.Betrag % Preise.Wochenpreis = 0;
 -- 31.
 SELECT Mieter.MieterNr AS Mieternummer
-FROM Mieter, Haus, Vermietung
-WHERE Haus.AnzZimmer = 3 AND Mieter.MieterNr = Vermietung.MieterNr AND Haus.FHaus = Vermietung.FHaus
+FROM Mieter,
+  Haus,
+  Vermietung
+WHERE Haus.AnzZimmer = 3
+  AND Mieter.MieterNr = Vermietung.MieterNr
+  AND Haus.FHaus = Vermietung.FHaus
 GROUP BY Mieter.MieterNr;
 -- 32.
-SELECT DISTINCT  Vermietung.MieterNr, Vermietung.bezahlt
-FROM Mieter, Haus, Vermietung  
-WHERE  Vermietung.bezahlt = 0 AND Vermietung.MieterNr = Mieter.MieterNr;
+SELECT DISTINCT Vermietung.MieterNr,
+  Vermietung.bezahlt
+FROM Mieter,
+  Haus,
+  Vermietung
+WHERE Vermietung.bezahlt = 0
+  AND Vermietung.MieterNr = Mieter.MieterNr;
 -- 33.
-SELECT Vermietung.MieterNr, Vermietung.Anzahlung
+SELECT Vermietung.MieterNr,
+  Vermietung.Anzahlung
 FROM Vermietung
 WHERE Vermietung.Anzahlung = 0
 GROUP BY Vermietung.MieterNr;
 -- 34.
-SELECT Haus.FHaus, Preise.Wochenpreis, Preise.Tagespreis
-FROM Preise, Haus
-WHERE Preise.Wochenpreis < Preise.Tagespreis*7 * 0.8 
-AND Preise.Preisschl = Haus.Preisschl;
+SELECT Haus.FHaus,
+  Preise.Wochenpreis,
+  Preise.Tagespreis
+FROM Preise,
+  Haus
+WHERE Preise.Wochenpreis < Preise.Tagespreis * 7 * 0.8
+  AND Preise.Preisschl = Haus.Preisschl;
 -- 35.
-SELECT  Haus.FHaus AS Haus, Preise.Wochenpreis
-FROM Preise, Vermietung, Haus
-WHERE Haus.Preisschl = Preise.Preisschl AND Haus.FHaus = Vermietung.FHaus 
-AND Preise.Wochenpreis > (SELECT avg(Preise.Wochenpreis) FROM Preise)
+SELECT Haus.FHaus AS Haus,
+  Preise.Wochenpreis
+FROM Preise,
+  Vermietung,
+  Haus
+WHERE Haus.Preisschl = Preise.Preisschl
+  AND Haus.FHaus = Vermietung.FHaus
+  AND Preise.Wochenpreis > (
+    SELECT avg(Preise.Wochenpreis)
+    FROM Preise
+  )
 GROUP BY Haus.FHaus;
 -- 36.
 SELECT DISTINCT Mieter.Name
-FROM (SELECT Haus.*
-		FROM Haus 
-		JOIN Preise ON Haus.Preisschl = Preise.Preisschl
-		WHERE Preise.Wochenpreis > (SELECT avg(Wochenpreis) as Wochenpreis FROM Preise)
-) AS Haus
-JOIN Vermietung ON Haus.FHaus = Vermietung.FHaus
-JOIN Mieter ON Vermieter.MieterNr = Mieter.MieterNr;
+FROM (
+    SELECT Haus.*
+    FROM Haus
+      JOIN Preise ON Haus.Preisschl = Preise.Preisschl
+    WHERE Preise.Wochenpreis > (
+        SELECT avg(Wochenpreis) as Wochenpreis
+        FROM Preise
+      )
+  ) AS Haus
+  JOIN Vermietung ON Haus.FHaus = Vermietung.FHaus
+  JOIN Mieter ON Vermieter.MieterNr = Mieter.MieterNr;
 -- 37.
-SELECT Haus.FHaus from Vermietung, Haus, Preise
-WHERE Vermietung.FHaus = Haus.FHaus AND Haus.Preisschl = Preise.Preisschl
-AND Preise.Ort = 'Hinterthal'
-AND Haus.FHaus in (SELECT FHaus from Vermietung
-					WHERE NOT CURRENT_DATE()
-                    BETWEEN Vermietung.Mietbeginn AND Vermietung.Mietende)
+SELECT Haus.FHaus
+from Vermietung,
+  Haus,
+  Preise
+WHERE Vermietung.FHaus = Haus.FHaus
+  AND Haus.Preisschl = Preise.Preisschl
+  AND Preise.Ort = 'Hinterthal'
+  AND Haus.FHaus in (
+    SELECT FHaus
+    from Vermietung
+    WHERE NOT CURRENT_DATE() BETWEEN Vermietung.Mietbeginn AND Vermietung.Mietende
+  )
 GROUP BY Haus.FHaus;
 -- 38.
-SELECT MieterNr, COUNT(MieterNr), FHaus, COUNT(FHaus) 
-FROM Vermietung 
-GROUP BY MieterNr, FHaus
-HAVING (COUNT(MieterNr) > 1) AND (COUNT(FHaus) > 1);
+SELECT MieterNr,
+  COUNT(MieterNr),
+  FHaus,
+  COUNT(FHaus)
+FROM Vermietung
+GROUP BY MieterNr,
+  FHaus
+HAVING (COUNT(MieterNr) > 1)
+  AND (COUNT(FHaus) > 1);
 -- 39.
-SELECT DISTINCT A.MieterNr AS Mieter1, B.MieterNr AS Mieter2, A.Betrag
-FROM Vermietung A, Vermietung B
+SELECT DISTINCT A.MieterNr AS Mieter1,
+  B.MieterNr AS Mieter2,
+  A.Betrag
+FROM Vermietung A,
+  Vermietung B
 WHERE A.MieterNr <> B.MieterNr
-AND A.Betrag = B.Betrag
+  AND A.Betrag = B.Betrag
 GROUP BY A.Betrag;
 -- 40.
 INSERT INTO Haus(FHaus, AnzZimmer, Flaeche, Preisschl)
-VALUES("Peter", 4, 120,6);
+VALUES("Peter", 4, 120, 6);
 -- 41.
 INSERT INTO Mieter(MieterNr, Name, PLZ, Ort, Strasse, Telefon)
-VALUES(7, "Hanke", 12685, "Berlin", "Frankfurtstrasse 69", 01711488235);
+VALUES(
+    7,
+    "Hanke",
+    12685,
+    "Berlin",
+    "Frankfurtstrasse 69",
+    01711488235
+  );
 -- 42.
-SELECT Mieter.Name, Vermietung.VNr
+SELECT Mieter.Name,
+  Vermietung.VNr
 FROM Mieter
-LEFT JOIN Vermietung  
-ON Mieter.MieterNr = Vermietung.MieterNr;
+  LEFT JOIN Vermietung ON Mieter.MieterNr = Vermietung.MieterNr;
 -- 43.
 SELECT Haus.*
-FROM Haus 
-LEFT JOIN Vermietung ON Haus.FHaus = Vermietung.FHaus
+FROM Haus
+  LEFT JOIN Vermietung ON Haus.FHaus = Vermietung.FHaus
 WHERE Vermietung.FHaus IS NULL;
 -- 44.
 SELECT h.*
 FROM Haus AS h
-LEFT JOIN (SELECT * FROM Vermietung
-			WHERE Mietbeginn
-			BETWEEN STR_TO_DATE('01.09.2007', '%e.%m.%Y')
-			AND STR_TO_DATE('30.09.2007', '%e.%m.%Y')
-            OR Mietende
-			BETWEEN STR_TO_DATE('01.09.2007', '%e.%m.%Y')
-			AND STR_TO_DATE('30.09.2007', '%e.%m.%Y')
-) AS v ON h.FHaus = v.FHaus
+  LEFT JOIN (
+    SELECT *
+    FROM Vermietung
+    WHERE Mietbeginn BETWEEN STR_TO_DATE('01.09.2007', '%e.%m.%Y') AND STR_TO_DATE('30.09.2007', '%e.%m.%Y')
+      OR Mietende BETWEEN STR_TO_DATE('01.09.2007', '%e.%m.%Y') AND STR_TO_DATE('30.09.2007', '%e.%m.%Y')
+  ) AS v ON h.FHaus = v.FHaus
 WHERE v.FHaus IS NULL;
 -- 45.
-SELECT Vermietung.FHaus, Mieter.Name
-FROM Vermietung, Mieter
+SELECT Vermietung.FHaus,
+  Mieter.Name
+FROM Vermietung,
+  Mieter
 WHERE Mieter.MieterNr = Vermietung.MieterNr
-GROUP BY Vermietung.FHaus, Vermietung.Mietbeginn;
+GROUP BY Vermietung.FHaus,
+  Vermietung.Mietbeginn;
 -- 46.
 CREATE VIEW v(Name, Telefon) AS
 SELECT Name,
@@ -450,7 +515,11 @@ set message_text = 'Es existiert bereits ein Eintrag für diesen Ort und diese K
 END IF;
 END $$ DELIMITER;
 -- 56.
-DELIMITER $$ DROP PROCEDURE vermietung_prüfen $$ DROP TRIGGER Eingabe_vermietung_insert $$ DROP TRIGGER Eingabe_vermietung_update $$ CREATE PROCEDURE Vermietung_prüfen(Mietbeginn DATE, Mietende DATE, FHaus CHAR(15)) BEGIN IF (
+DELIMITER $$ 
+DROP PROCEDURE vermietung_prüfen $$ 
+DROP TRIGGER Eingabe_vermietung_insert $$ 
+DROP TRIGGER Eingabe_vermietung_update $$ 
+CREATE PROCEDURE Vermietung_prüfen(Mietbeginn DATE, Mietende DATE, FHaus CHAR(15)) BEGIN IF (
   SELECT count(*)
   FROM Vermietung AS v
   WHERE (

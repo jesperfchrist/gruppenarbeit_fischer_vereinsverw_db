@@ -1,0 +1,2 @@
+UPDATE mitglieder
+SET Beitrittsdatum = DATE_ADD(DATE('2009-01-01'), INTERVAL FLOOR(RAND() * (DATEDIFF('2021-01-01', '2009-01-01') + 1)) DAY);

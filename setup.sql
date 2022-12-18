@@ -38,15 +38,15 @@ CREATE TABLE IF NOT EXISTS spielfelder (
   Untergrund varchar(50),
   Markierungen varchar(50),
   Netz varchar(30),
-  Laenge INT,
-  Breite INT,
-  Ort varchar(30)
+  Laenge FLOAT,
+  Breite FLOAT,
+  Ort varchar(50)
 );
 -- TEAMS
 CREATE TABLE IF NOT EXISTS teams (
   Teamnummer INT PRIMARY KEY auto_increment,
-  Bedingungen varchar(20),
-  Altersklasse INT,
+  Bedingungen varchar(100),
+  Altersklasse varchar(10),
   Groesse INT
 );
 -- Beziehung: mitglieder spielen in teams
@@ -77,24 +77,3 @@ CREATE TABLE IF NOT EXISTS mitglieder_koennen_sportarten (
   FOREIGN KEY (Mitgliedsnummer) REFERENCES mitglieder (Mitgliedsnummer),
   FOREIGN KEY (Sportartnummer) REFERENCES sportarten (Sportartnummer)
 );
--- Sportarten hinzufügen
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Handball', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Tennis', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Basketball', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Volleyball', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Badminton', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Darts', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Yoga', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Zumba', '');
-INSERT INTO sportarten (SportartName, Equipment)
-VALUES ('Aquagymnastik', '');
-
--- Mitglieder hinzufügen

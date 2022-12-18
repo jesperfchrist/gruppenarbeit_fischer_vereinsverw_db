@@ -1,3 +1,4 @@
+-- SPIELFELDER hinzufügen
 INSERT INTO spielfelder (
   Untergrund,
   Markierungen,
@@ -10,7 +11,7 @@ VALUES (
   'Handball',
   '40',
   '20',
-  'An der VB-Arena 1, 31139 Hildesheim'
+  'vb1'
 );
 INSERT INTO spielfelder (
   Untergrund,
@@ -20,11 +21,11 @@ INSERT INTO spielfelder (
   Ort
 )
 VALUES (
-  'Holzparkett',
-  'Handball',
+  'Hartgummi',
+  'Handball, Volleyball, Badminton',
   '40',
   '20',
-  'An der VB-Arena 1, 31139 Hildesheim'
+  'pa6'
 );
 INSERT INTO spielfelder (
   Untergrund,
@@ -34,11 +35,35 @@ INSERT INTO spielfelder (
   Ort
 )
 VALUES (
-  'Holzparkett',
-  'Handball',
+  'PVC',
+  'Badminton',
+  '14',
+  '6',
+  'hb12'
+);
+INSERT INTO spielfelder (
+  Untergrund,
+  Laenge,
+  Breite,
+  Ort
+)
+VALUES (
+  'PVC',
+  '50',
   '40',
+  'hb3'
+);
+INSERT INTO spielfelder (
+  Untergrund,
+  Laenge,
+  Breite,
+  Ort
+)
+VALUES (
+  'PVC',
+  '50',
   '20',
-  'An der VB-Arena 1, 31139 Hildesheim'
+  'sf4'
 );
 INSERT INTO spielfelder (
   Untergrund,
@@ -48,23 +73,25 @@ INSERT INTO spielfelder (
   Ort
 )
 VALUES (
-  'Holzparkett',
-  'Handball',
-  '40',
-  '20',
-  'An der VB-Arena 1, 31139 Hildesheim'
+  'PVC',
+  'Basketball, Handball',
+  '50',
+  '25',
+  'ak85'
 );
 INSERT INTO spielfelder (
   Untergrund,
   Markierungen,
+  Netz,
   Laenge,
   Breite,
   Ort
 )
 VALUES (
-  'Holzparkett',
-  'Handball',
-  '40',
-  '20',
-  'An der VB-Arena 1, 31139 Hildesheim'
-);
+  'Sand',
+  'Tennis',
+  'Tennisnetz',
+  '24',
+  '11',
+  'tf2'
+)
